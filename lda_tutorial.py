@@ -98,5 +98,3 @@ print lda[example_bow]
 # reduced number of topics from 10 because more interpretable topics were generated
 # and the analysis showed all topics getting > 96% accuracy only one topic.
 # With fewer topics the resumes become a mixture of topics
-
-
