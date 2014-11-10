@@ -1,0 +1,17 @@
+{
+	"title": "API-building for political information on the Danish parliament",
+	"members": [
+		{ 
+		"name": "Ulf Aslak Jensen",
+		"study_number": "s103072"},
+		{ 
+		"name": "Christopher Frederick Wiin Schenk",
+		"study_number": "s130172"},
+		{ 
+		"name": "Daniel Heestermans Svendsen",
+		"study_number": "s103121"}
+		],
+	"git": "https://github.com/dhsvendsen/ulfdan",
+	"description": "The project is a data mining project in which we will scrape information of the Danish parliament website. We wish to prove tendencies in voting statistics correlated with the particular subject of the law-proposition. The subject of the law proposition will be analyzed with modules such a pandas an nltk. Ideally it will be possible to feed an abstract of a proposition to our program and obtain an estimate of which politicians will vote on it.",
+	"modules": ["lxml", "requests", "re", "beautifulsoup", "nltk", "django"]
+} 
