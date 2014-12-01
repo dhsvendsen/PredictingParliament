@@ -9,7 +9,9 @@ import numpy as np
 
 
 def lda_topics(resume):
-    """Perform Latent Dirichlet Analysis on a string.
+    """Perform Latent Dirichlet Analysis on a string. Creates corpus,
+    Parameters
+    ----------
     """
 
     n_topic = 25
