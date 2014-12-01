@@ -10,34 +10,32 @@ import re
 
 getter = OdaGetter()
 
+
 def all_MPs():
-    """
-        Returns a filtered version of get_aktoer() that only contains MPs and
-        id and name for each.
+    """Returns a filtered version of get_aktoer() that only contains MPs and
+    id and name for each.
     """
 
     # Create a clean list of MPs from file.
-    with open('MF_list.txt','r') as in_file:
+    with open('MF_list.txt', 'r') as in_file:
         MP_list_raw = in_file.read().decode('utf-8')
         pattern = re.compile(r'(.+)')
-        MP_list = filter(lambda x: len(x) > 0, 
-                         [re.sub('\r', '', line) 
+        MP_list = filter(lambda x: len(x) > 0,
+                         [re.sub('\r', '', line)
                           for line in pattern.findall(MP_list_raw)])
-    
 
     aktoer_raw = getter.get_aktoer()
     MPs = filter(lambda x: x['navn'] in MP_list, aktoer_raw)[:179]
-    
+
     MPs_filtered = []
 
     for member in MPs:
         mem_feats = {}
         for feature in member:
             if feature in ['navn', 'id']:
-                mem_feat = {feature : member[feature]}
+                mem_feat = {feature: member[feature]}
                 mem_feats.update(mem_feat)
         MPs_filtered.append(mem_feats)
-            
 
     return MPs_filtered
 
@@ -68,15 +66,14 @@ def single_PMP(aktoerid):
 
 def MP_votes(aktoerid):
     """
-        Returns a JSON containing vote type and references to each vote a 
+        Returns a JSON containing vote type and references to each vote a
         member has cast.
     """
 
-    stemmer = filter(lambda x: x['typeid'] in [1, 2], 
+    stemmer = filter(lambda x: x['typeid'] in [1, 2],
                      getter.get_stemme(aktoerid))
 
     return stemmer
-
 
 
 def vote_case(afstemningid):

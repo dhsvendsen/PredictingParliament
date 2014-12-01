@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
+"""This script determines the most accurate classifier through parametrization
+of classifiers. An MP id is chosen and a host of classifiers are trained on
+the dataset and subsequently evaluated through stratisfied crossvalidation.
 """
-Created on Sun Nov 23 15:58:00 2014
-
-@author: Daniel
-"""
-
-from resume_lda import *
-from classifier_data import *
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.cross_validation import train_test_split
+from sklearn.cross_validation import StratifiedKFold
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
@@ -17,6 +12,14 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.lda import LDA
 from sklearn.qda import QDA
 import numpy as np
+import classifier_data
+
+mp_id = 5
+try:
+    X = np.load('data_matrices/X_{}.npy'.format(mp_id))
+    y = np.load('data_matrices/y_{}.npy'.format(mp_id))
+except IOError:
+    X, y = classifier_data.dataset_X_y(mp_id)
 
 names = ["Nearest Neighbors", "Linear SVM", "RBF SVM", "Decision Tree",
          "Random Forest", "AdaBoost", "Naive Bayes", "LDA", "QDA"]
@@ -31,55 +34,35 @@ classifiers = [
     LDA(),
     QDA()]
 
-#X = np.load('lda_model_data/X_25.npy')
-#X = np.load('lda_model_data/X_25_w0.npy')
-#y = np.load('lda_model_data/y_25.npy')
-#y = np.load('lda_model_data/y_25_w0.npy')
-
-#X = np.load('X_frank.npy')
-#y = np.load('y_frank.npy')
-
-#X,y = dataset_X_y(5)
-#np.save('lda_model_data/X_5_no_ministry_no_category',X)
-#np.save('lda_model_data/y_5_no_ministry_no_category,y)
-
-X = np.load('lda_model_data/X_5_no_ministry.npy')
-y = np.load('lda_model_data/y_5_no_ministry.npy')
-
-print 'optimism level of politician is', 1-np.mean(y-1)
-
 def classifier_score(features, targets, classifier):
+    """Performs stratisfied K-fold crossvalidation and for a classifier with a
+    specified dataset. Then checks for the event that the trained classifier is
+    trivial (all predictions equal to majority class).
+    """
     K = 10
-    cv = cross_validation.StratifiedKFold(targets, n_folds=K, indices=False)
+    cv = StratifiedKFold(targets, n_folds=K, indices=False)
     accuracies = []
 
     for train_index, test_index in cv:
-        X_train, y_train  = np.array(features[train_index]) ,np.array(targets[train_index])
-        X_test, y_test  = np.array(features[test_index]) ,np.array(targets[test_index])
+        X_train, y_train = np.array(
+            features[train_index]), np.array(targets[train_index])
+        X_test, y_test = np.array(
+            features[test_index]), np.array(targets[test_index])
 
         classifier.fit(X_train, y_train)
         accuracies.append(classifier.score(X_test, y_test))
-        
+
     classifier.fit(features, targets)
     pred = classifier.predict(features)
-    
-    if np.mean(pred)%1 == 0:
-        print 'Classifier picks majority class as result every time'
+
+    if np.mean(pred) % 1 == 0:
+        print 'Classifier picks majority class as result for every prediction'
         return
     else:
         return np.mean(accuracies)
-        
+
+print 'Percentage of "yes"-votes cast in current period of government:',
+np.mean(y == 1)
 for name, clf in zip(names, classifiers):
     score = classifier_score(X, y, clf)
     print name, ' results are: \n', score
-    
-
-        
-#####################SAVE KLASI#######################
-#import pickle        
-#dtc = DecisionTreeClassifier(max_depth=5).fit(X,y)
-#with open('tree_dump_test.pkl', 'wb') as out_file:
-#    pickle.dump(dtc, out_file)    
-#
-#with open('tree_dump_test.pkl', 'rb') as in_file:
-#    loadedbusiness = pickle.load(in_file)

@@ -91,7 +91,6 @@ class OdaGetter:
 
         return self.get_odata_with_db(self.url, self.filename)
 
-
     def get_afstemning(self):
         """Return a list containing information about all votes in parliament.
         """
@@ -99,7 +98,6 @@ class OdaGetter:
         self.filename = 'afstemning'
 
         return self.get_odata_with_db(self.url, self.filename)
-
 
     def get_sag(self, sagid):
         """Returns a JSON that contains information about a particular case.
@@ -109,7 +107,6 @@ class OdaGetter:
 
         return self.get_odata_with_db(self.url, self.filename)
 
-
     def get_LB_sager(self):
         """Returns a JSON containing all cases with number-prefixes L and B.
         """
@@ -117,7 +114,6 @@ class OdaGetter:
         self.filename = 'LB_sager'
 
         return self.get_odata_with_db(self.url, self.filename)
-
 
     def get_ministeromraaede_aktoer(self):
         """Returns a list with an entry for each ministry in parliament.
@@ -127,25 +123,19 @@ class OdaGetter:
 
         return self.get_odata_with_db(self.url, self.filename)
 
-
     def get_sagstrin(self, sagstrinid):
-        """Returns a JSON array of 1 element that is used to get the "sagid" 
-        i.e. the case-id. Albeit the simplest way to get the case-id, it is a 
+        """Returns a JSON array of 1 element that is used to get the "sagid"
+        i.e. the case-id. Albeit the simplest way to get the case-id, it is a
         cumbersome one.
         """
         self.url = 'http://oda.ft.dk/api/Sagstrin(%d)' % sagstrinid
 
         return self.get_odata(self.url)
 
-
     def get_sagaktoer(self, sagid, rolleid):
         """Returns id of actor that proposed a case (rolleid = 19) or is the
         ministry that the case originated from (rolleid = 6).
         """
-        self.url = 'http://oda.ft.dk/api/SagAktør?$filter=sagid eq {0} and rolleid eq {1}'.format(sagid,rolleid)
+        self.url = 'http://oda.ft.dk/api/SagAktør?$filter=sagid eq {0} and rolleid eq {1}'.format(sagid, rolleid)
 
         return self.get_odata(self.url)['value'][0][u'akt\xf8rid']
-
-
-
-
