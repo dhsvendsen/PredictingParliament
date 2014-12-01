@@ -12,8 +12,6 @@ import pickle
 
 all_mp = [dicts['id'] for dicts in odaparsers.all_MPs()]
 
-DecisionTreeClassifier(max_depth=5)
-
 for mp_id in all_mp:
     X, y = classifier_data.dataset_X_y(mp_id)
     np.save('data_matrices/X_{0}'.format(mp_id), X)

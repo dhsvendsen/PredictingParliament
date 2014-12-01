@@ -9,9 +9,20 @@ import numpy as np
 
 
 def lda_topics(resume):
-    """Perform Latent Dirichlet Analysis on a string. Creates corpus,
+    """Perform Latent Dirichlet Analysis on a string. The corpus of all case
+    resumes (in BOW representation) is transformed by 'term frequency–inverse
+    document frequency' method.
+    
     Parameters
     ----------
+    resume : string
+        An arbitrary string on which LDA analysis will be performed
+    
+    Returns
+    -------
+    out : topic-array
+        A numpy array of n_topic length with topic weighs
+    
     """
 
     n_topic = 25
