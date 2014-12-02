@@ -15,8 +15,6 @@ import pickle
 
 all_mp = [dicts['id'] for dicts in opa.all_MPs()]
 
-DecisionTreeClassifier(max_depth=5)
-
 for mp_id in all_mp:
     X, y = cd.dataset_X_y(mp_id)
     np.save('storing/matrices/X_{0}'.format(mp_id), X)
