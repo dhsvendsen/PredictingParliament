@@ -1,8 +1,14 @@
 # -*- coding: utf-8 -*-
-"""This script determines the most accurate classifier through parametrization
-of classifiers. An MP id is chosen and a host of classifiers are trained on
-the dataset and subsequently evaluated through stratisfied crossvalidation.
+"""This script should be called with an argument corresponding to the ID of
+an MP, and determines the most accurate classifier through parametrization
+of classifiers. For the given MP, a host of classifiers are trained on the 
+dataset and subsequently evaluated through stratisfied crossvalidation.
 """
+
+import sys; import os
+sys.path.insert(0, os.path.abspath('..'))
+
+import classifier_data
 from sklearn.cross_validation import StratifiedKFold
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
@@ -12,27 +18,9 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.lda import LDA
 from sklearn.qda import QDA
 import numpy as np
-import classifier_data
+from sys import argv
 
-mp_id = 5
-try:
-    X = np.load('data_matrices/X_{}.npy'.format(mp_id))
-    y = np.load('data_matrices/y_{}.npy'.format(mp_id))
-except IOError:
-    X, y = classifier_data.dataset_X_y(mp_id)
-
-names = ["Nearest Neighbors", "Linear SVM", "RBF SVM", "Decision Tree",
-         "Random Forest", "AdaBoost", "Naive Bayes", "LDA", "QDA"]
-classifiers = [
-    KNeighborsClassifier(3),
-    SVC(kernel="linear", C=0.025),
-    SVC(gamma=2, C=1),
-    DecisionTreeClassifier(max_depth=5),
-    RandomForestClassifier(max_depth=5, n_estimators=200),
-    AdaBoostClassifier(),
-    GaussianNB(),
-    LDA(),
-    QDA()]
+_, mp_id = argv
 
 def classifier_score(features, targets, classifier):
     """Performs stratisfied K-fold crossvalidation and for a classifier with a
@@ -60,6 +48,27 @@ def classifier_score(features, targets, classifier):
         return
     else:
         return np.mean(accuracies)
+
+
+try:
+    X = np.load('../storing/matrices/X_{}.npy'.format(mp_id))
+    y = np.load('../storing/matrices/y_{}.npy'.format(mp_id))
+except IOError:
+    X, y = classifier_data.dataset_X_y(mp_id)
+
+names = ["Nearest Neighbors", "Linear SVM", "RBF SVM", "Decision Tree",
+         "Random Forest", "AdaBoost", "Naive Bayes", "LDA", "QDA"]
+
+classifiers = [
+    KNeighborsClassifier(3),
+    SVC(kernel="linear", C=0.025),
+    SVC(gamma=2, C=1),
+    DecisionTreeClassifier(max_depth=5),
+    RandomForestClassifier(max_depth=5, n_estimators=200),
+    AdaBoostClassifier(),
+    GaussianNB(),
+    LDA(),
+    QDA()]
 
 print 'Percentage of "yes"-votes cast in current period of government:',
 np.mean(y == 1)

@@ -1,26 +1,41 @@
 # -*- coding: utf-8 -*-
 
+import sys; import os
+sys.path.insert(0, os.path.abspath('..'))
+
+from dataretrieval.odagetter import OdaGetter
 from gensim import corpora, models
 from gensim.utils import simple_preprocess
 import nltk
 import nltk.corpus
-from odagetter import OdaGetter
 import numpy as np
 
 
 def lda_topics(resume):
-    """Perform Latent Dirichlet Analysis on a string. Creates corpus,
+    """Perform Latent Dirichlet Analysis on a string. The corpus of all case
+    resumes (in BOW representation) is transformed by 'term frequency–inverse
+    document frequency' method.
+    
     Parameters
     ----------
+    resume : string
+        An arbitrary string on which LDA analysis will be performed
+    
+    Returns
+    -------
+    out : topic-array
+        A numpy array of n_topic length with topic weighs
+    
     """
 
     n_topic = 25
-
+    
+    # Attempt to retrieve stored LDA model
     try:
         lda = models.LdaModel.load(
-            'lda_model_data/all_resume_model_modified_%s.model' % str(n_topic))
+            'storing/ldamodel/all_resume_model_modified_%s.model' % str(n_topic))
         dictionary = corpora.Dictionary.load(
-            'lda_model_data/all_resume_dict_modified_%s.dict' % str(n_topic))
+            'storing/ldamodel/all_resume_dict_modified_%s.dict' % str(n_topic))
 
     except IOError:
         # Retrieve all resumes
@@ -47,12 +62,12 @@ def lda_topics(resume):
         # Create dictionary that maps words to word ids
         dictionary = corpora.Dictionary(corpus)
         dictionary.save(
-            'lda_model_data/all_resume_dict_modified_%s.dict' % str(n_topic))
+            'storing/ldamodel/all_resume_dict_modified_%s.dict' % str(n_topic))
 
         # Bag of words (BOW) representation of corpus
         corpus_bow = [dictionary.doc2bow(document) for document in corpus]
         corpora.MmCorpus.serialize(
-            'lda_model_data/all_resume_corpus_modified_%s.mm' % str(n_topic),
+            'storing/ldamodel/all_resume_corpus_modified_%s.mm' % str(n_topic),
              corpus_bow)
 
         # Transform BOW corpus using 'term frequency–inverse document
@@ -64,7 +79,7 @@ def lda_topics(resume):
         lda = models.ldamodel.LdaModel(
             corpus=corpus_tfidf, id2word=dictionary, num_topics=n_topic)
         lda.save(
-            'lda_model_data/all_resume_model_modified_%s.model' % str(n_topic))
+            'storing/ldamodel/all_resume_model_modified_%s.model' % str(n_topic))
 
     resume_bow = dictionary.doc2bow(simple_preprocess(resume))
     resume_lda = lda[resume_bow]

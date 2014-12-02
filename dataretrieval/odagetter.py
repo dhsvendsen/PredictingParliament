@@ -26,7 +26,7 @@ class OdaGetter:
     def __write_to_database__(self, data, filename):
         """Writes data to filename and returns nothing.
         """
-        with open('database/%s.txt' % filename, 'w') as out_data:
+        with open('storing/database/%s.txt' % filename, 'w') as out_data:
             out_data.write(json.dumps(data, indent=1))
 
     def get_odata_with_db(self, url, filename=None):
@@ -37,7 +37,7 @@ class OdaGetter:
                 filename = url.split('/')[-1]
 
         try:
-            with open('database/%s.txt' % filename, 'r') as in_data:
+            with open('storing/database/%s.txt' % filename, 'r') as in_data:
                 return json.load(in_data)
         except IOError:
             self.data = rq.get(url).json()

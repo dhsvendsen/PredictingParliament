@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*-
 
-import odaparsers
+import sys; import os
+sys.path.insert(0, os.path.abspath('..'))
+
+import dataretrieval.odaparsers as opa
 import numpy as np
 from sklearn.tree import DecisionTreeClassifier
 import pickle
 
-all_mp = [(dicts['id'],dicts['navn']) for dicts in odaparsers.all_MPs()]
+all_mp = [(dicts['id'],dicts['navn']) for dicts in opa.all_MPs()]
 
 DecisionTreeClassifier(max_depth=5)
 

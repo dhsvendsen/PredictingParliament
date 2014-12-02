@@ -8,8 +8,12 @@ observation, in which case the function will just return the zero-array. Full
 rows of zeros, i.e. features that were never present will be deleted in the
 final step of this script.
 """
-from odagetter import OdaGetter
-from odaparsers import single_MP, MP_votes, vote_case
+
+import sys; import os
+sys.path.insert(0, os.path.abspath('..'))
+
+from dataretrieval.odagetter import OdaGetter
+from dataretrieval.odaparsers import single_MP, MP_votes, vote_case
 from resume_lda import lda_topics
 import xml.etree.ElementTree as ET
 import numpy as np

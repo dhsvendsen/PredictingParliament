@@ -19,7 +19,7 @@ p8
 csklearn.tree._tree
 Tree
 p9
-(L52L
+(I52
 cnumpy.core.multiarray
 _reconstruct
 p10
@@ -33,7 +33,7 @@ p13
 tp14
 Rp15
 (I1
-(L1L
+(I1
 tp16
 cnumpy
 dtype
@@ -55,13 +55,13 @@ bI00
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p23
 tp24
-bL1L
+bI1
 tp25
 Rp26
 (dp27
 S'node_count'
 p28
-L1L
+I1
 sS'values'
 p29
 g10
@@ -72,9 +72,9 @@ g13
 tp31
 Rp32
 (I1
-(L1L
-L1L
-L1L
+(I1
+I1
+I1
 tp33
 g17
 (S'f8'
@@ -104,7 +104,7 @@ g13
 tp43
 Rp44
 (I1
-(L1L
+(I1
 tp45
 g17
 (S'V56'
@@ -162,7 +162,7 @@ I40
 tp65
 sI56
 I1
-I16
+I0
 tp66
 bI00
 S'\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xfe\xff\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\xc0\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xf0?'
@@ -170,10 +170,10 @@ p67
 tp68
 bsbsS'n_features_'
 p69
-L52L
+I52
 sS'n_outputs_'
 p70
-L1L
+I1
 sS'n_classes_'
 p71
 cnumpy.core.multiarray
@@ -196,7 +196,7 @@ g13
 tp79
 Rp80
 (I1
-(L1L
+(I1
 tp81
 g20
 I00
@@ -205,7 +205,7 @@ p82
 tp83
 bsS'max_features_'
 p84
-L52L
+I52
 sS'min_samples_leaf'
 p85
 I1
