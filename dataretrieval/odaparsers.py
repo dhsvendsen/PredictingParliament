@@ -4,9 +4,14 @@
 # 'all_MPs' is called as an array to loop over to generate train data for
 # each MP decision classifier.
 
-from odagetter import OdaGetter
+import os; import sys
+parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, parentdir)
 
+from odagetter import OdaGetter
 import re
+
+print "odaparsers thinks it in", os.getcwd()
 
 getter = OdaGetter()
 

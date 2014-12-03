@@ -5,8 +5,9 @@ of classifiers. For the given MP, a host of classifiers are trained on the
 dataset and subsequently evaluated through stratisfied crossvalidation.
 """
 
-import sys; import os
-sys.path.insert(0, os.path.abspath('..'))
+import os; import sys
+parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, parentdir)
 
 import classifier_data
 from sklearn.cross_validation import StratifiedKFold

@@ -7,9 +7,18 @@ named get_[name of dataset], where [name of dataset] is the resource pulled
 from oda.ft.dk.
 """
 
+import os; import sys
+parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, parentdir)
+
+print
+print parentdir
+print
+
 import requests as rq
 import json
 
+print "odagetter thinks it's in", os.getcwd()
 
 class OdaGetter:
     """This class is strictly comprised of methods that retrieve raw data from
@@ -26,8 +35,14 @@ class OdaGetter:
     def __write_to_database__(self, data, filename):
         """Writes data to filename and returns nothing.
         """
-        with open('storing/database/%s.txt' % filename, 'w') as out_data:
+        with open(parentdir + '/storing/database/%s.txt' % filename, 'w') as out_data:
             out_data.write(json.dumps(data, indent=1))
+
+    def __read_from_database__(self, filename):
+        """Return data from file in database
+        """
+        with open(parentdir + '/storing/database/%s.txt' % filename, 'r') as in_data:
+            return json.load(in_data)
 
     def get_odata_with_db(self, url, filename=None):
         """Takes an ODA query url as argument and returns the result, storing
@@ -37,8 +52,7 @@ class OdaGetter:
                 filename = url.split('/')[-1]
 
         try:
-            with open('storing/database/%s.txt' % filename, 'r') as in_data:
-                return json.load(in_data)
+            return self.__read_from_database__(filename)
         except IOError:
             self.data = rq.get(url).json()
 
@@ -88,6 +102,9 @@ class OdaGetter:
         """
         self.url = 'http://oda.ft.dk/api/Stemme?$filter=aktørid eq {0}'.format(aktoerid)
         self.filename = 'stemme%d' % aktoerid
+
+        print url
+        print filename
 
         return self.get_odata_with_db(self.url, self.filename)
 

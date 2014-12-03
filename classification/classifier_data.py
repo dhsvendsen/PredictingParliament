@@ -9,8 +9,9 @@ rows of zeros, i.e. features that were never present will be deleted in the
 final step of this script.
 """
 
-import sys; import os
-sys.path.insert(0, os.path.abspath('..'))
+import os; import sys
+parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, parentdir)
 
 from dataretrieval.odagetter import OdaGetter
 from dataretrieval.odaparsers import single_MP, MP_votes, vote_case
