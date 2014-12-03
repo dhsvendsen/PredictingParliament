@@ -26,3 +26,5 @@ def test_feat_L_or_B():
     """Test if feature array generation is working
     """
     assert (classifier_data.feat_L_or_B('L') == np.array([1., 0.])).all()
+    
+    #blabalba
