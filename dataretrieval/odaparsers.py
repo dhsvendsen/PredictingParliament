@@ -1,23 +1,23 @@
-# This module deals with the parsing of data from ODA into a format that
-# is understood by a classifier. 'dataset_X_y()' is called for
-# each MP to return a list of tuples that can be used to train a classifier.
-# 'all_MPs' is called as an array to loop over to generate train data for
-# each MP decision classifier.
+# -*- coding: utf-8 -*-
 
-import os; import sys
-parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-os.sys.path.insert(0, parentdir)
+"""This module deals with the parsing of data from ODA into a format that
+is understood by a classifier. 'dataset_X_y()' is called for
+each MP to return a list of tuples that can be used to train a classifier.
+'all_MPs' is called as an array to loop over to generate train data for
+each MP decision classifier.
+"""
 
 from odagetter import OdaGetter
 import re
-
-print "odaparsers thinks it in", os.getcwd()
+import os
+parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, parentdir)
 
 getter = OdaGetter()
 
 
 def all_MPs():
-    """Returns a filtered version of get_aktoer() that only contains MPs and
+    """Return a filtered version of get_aktoer() that only contains MPs and
     id and name for each.
     """
 
@@ -46,8 +46,7 @@ def all_MPs():
 
 
 def single_MP(aktoerid):
-    """
-        Returns profile for the prompted MP.
+    """Return profile for the prompted MP.
     """
 
     for MP in getter.get_aktoer():
@@ -58,8 +57,7 @@ def single_MP(aktoerid):
 
 
 def single_PMP(aktoerid):
-    """
-        Returns profile for the prompted PMP.
+    """Return profile for the prompted PMP.
     """
 
     for PMP in getter.get_ministeromraaede_aktoer():
@@ -70,9 +68,8 @@ def single_PMP(aktoerid):
 
 
 def MP_votes(aktoerid):
-    """
-        Returns a JSON containing vote type and references to each vote a
-        member has cast.
+    """Return a JSON containing vote type and references to each vote a
+    member has cast.
     """
 
     stemmer = filter(lambda x: x['typeid'] in [1, 2],
@@ -82,8 +79,7 @@ def MP_votes(aktoerid):
 
 
 def vote_case(afstemningid):
-    """
-        Returns case profile for the prompted vote id.
+    """Return case profile for the prompted vote id.
     """
 
     for afstemning in getter.get_afstemning():

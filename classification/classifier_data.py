@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 """This module contains functions, each returning a zero-array which holds a
 single 1 representing the precense of a feature in a case (data object). These
 arrays are combined into a data object row and then a full data matrix by the
@@ -9,15 +10,15 @@ rows of zeros, i.e. features that were never present will be deleted in the
 final step of this script.
 """
 
-import os; import sys
-parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-os.sys.path.insert(0, parentdir)
-
 from dataretrieval.odagetter import OdaGetter
 from dataretrieval.odaparsers import single_MP, MP_votes, vote_case
 from resume_lda import lda_topics
 import xml.etree.ElementTree as ET
 import numpy as np
+import os
+
+parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, parentdir)
 
 getter = OdaGetter()
 
@@ -27,15 +28,15 @@ def feat_party(caseid):
     """
 
     parties = ['Venstre', 'Socialdemokratiet', 'Socialistisk Folkeparti',
-                'Dansk Folkeparti', 'Radikale Venstre', 'Enhedslisten',
-                'Liberal Alliance', 'Det Konservative Folkeparti']
+               'Dansk Folkeparti', 'Radikale Venstre', 'Enhedslisten',
+               'Liberal Alliance', 'Det Konservative Folkeparti']
 
     try:
         aktoerid = getter.get_sagaktoer(caseid, 19)  # 19 is the typeid for
         # the "proposing politician
     except IndexError:
-        print "No actor with role id 19 was found for\ caseid %d. Returning \
-        0-array." % caseid
+        print "No actor with role id 19 was found for\ caseid %d. Returning "\
+            "0-array." % caseid
         return np.zeros(len(parties))
 
     data = single_MP(aktoerid)
@@ -43,8 +44,8 @@ def feat_party(caseid):
     try:
         root = ET.fromstring(data['biografi'].encode('utf-16'))
     except:
-        print "No info ('biografi') was found for MP: %s. Returning\
-        0-array." % aktoerid
+        print "No info ('biografi') was found for MP: %s. Returning "\
+            "0-array." % aktoerid
         return np.zeros(len(parties))
 
     party = root.find('party').text
@@ -99,6 +100,21 @@ def dataset_X_y(aktoerid):
     """Return a clean dataset X of features for every case the given MP has
     voted in, along with a target vector y, representing his/her vote in said
     case.
+    
+    Parameters
+    ----------
+    aktoerid : integer
+        ID-integer corresponding to the actor-id with with the members of
+        parliament are indexed on www.oda.ft.dk
+
+    Returns
+    -------
+    out1 : feature-array
+        A data matrix of numpy.array type, each row containing the features of
+        a particular case in which the MP in question voted.
+        
+    out2 : target-array
+        A numpy.array of classindices, representing the binary vote result.
     """
 
     # Get list of votes that the given MP has cast
@@ -136,13 +152,13 @@ def dataset_X_y(aktoerid):
 
         if case['id'] in processed_cases:
             print "Dublicate found! Vote %d in case %d" % (
-            MP_vote['afstemningid'], case['id'])
+                MP_vote['afstemningid'], case['id'])
             continue
         else:
             processed_cases.append(case['id'])
 
         print "\nProcessing vote %d in case %d - MP id %d\n" % (
-        MP_vote['afstemningid'], case['id'], aktoerid)
+            MP_vote['afstemningid'], case['id'], aktoerid)
 
         X_case = []
 

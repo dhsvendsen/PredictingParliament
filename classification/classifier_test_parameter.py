@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """This script should be called with an argument corresponding to the ID of
 an MP, and determines the most accurate classifier through parametrization
-of classifiers. For the given MP, a host of classifiers are trained on the 
+of classifiers. For the given MP, a host of classifiers are trained on the
 dataset and subsequently evaluated through stratisfied crossvalidation.
 """
 
-import os; import sys
+import os
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, parentdir)
 
@@ -23,10 +23,31 @@ from sys import argv
 
 _, mp_id = argv
 
+
 def classifier_score(features, targets, classifier):
     """Performs stratisfied K-fold crossvalidation and for a classifier with a
     specified dataset. Then checks for the event that the trained classifier is
     trivial (all predictions equal to majority class).
+
+    Parameters
+    ----------
+    features : feature-array
+        A data matrix of numpy.array type. See also
+        classification.classifier_data.dataset_X_y
+
+    targets : class-array
+        A numpy.array class-index. See also
+        classification.classifier_data.dataset_X_y
+        
+    classifier : classifer
+        A classifier class that takes numpy arrays. Function developed with
+        Sci-kit learn classifiers.
+
+    Returns
+    -------
+    out : accuracy or 'A majority class classifier'
+        Accuracy computed by 10-fold statisfied CV, float type, or notification
+        of trivial classifier.
     """
     K = 10
     cv = StratifiedKFold(targets, n_folds=K, indices=False)
@@ -45,8 +66,7 @@ def classifier_score(features, targets, classifier):
     pred = classifier.predict(features)
 
     if np.mean(pred) % 1 == 0:
-        print 'Classifier picks majority class as result for every prediction'
-        return
+        return 'A majority class classifier'
     else:
         return np.mean(accuracies)
 
@@ -57,6 +77,7 @@ try:
 except IOError:
     X, y = classifier_data.dataset_X_y(mp_id)
 
+# Initialize different classifiers from sklearns library and test accuracy.
 names = ["Nearest Neighbors", "Linear SVM", "RBF SVM", "Decision Tree",
          "Random Forest", "AdaBoost", "Naive Bayes", "LDA", "QDA"]
 
