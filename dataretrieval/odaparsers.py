@@ -14,7 +14,7 @@ import re
 PARENTDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, PARENTDIR)
 
-getter = OdaGetter()
+GETTER = OdaGetter()
 
 
 def all_mps():
@@ -30,7 +30,7 @@ def all_mps():
                          [re.sub('\r', '', line)
                           for line in pattern.findall(mp_list_raw)])
 
-    aktoer_raw = getter.get_aktoer()
+    aktoer_raw = GETTER.get_aktoer()
     mps = filter(lambda x: x['navn'] in mp_list, aktoer_raw)[:179]
 
     mps_filtered = []
@@ -50,22 +50,11 @@ def single_mp(aktoerid):
     """Return profile for the prompted MP.
     """
 
-    for mp in getter.get_aktoer():
+    for mp in GETTER.get_aktoer():
         if aktoerid == mp['id']:
             return mp
     else:
         print "Found no MP for id %d" % aktoerid
-
-
-def single_pmp(aktoerid):
-    """Return profile for the prompted PMP.
-    """
-
-    for pmp in getter.get_ministeromraaede_aktoer():
-        if aktoerid == pmp['id']:
-            return pmp
-    else:
-        print "Found no PMP for id %d" % aktoerid
 
 
 def mp_votes(aktoerid):
@@ -74,7 +63,7 @@ def mp_votes(aktoerid):
     """
 
     stemmer = filter(lambda x: x['typeid'] in [1, 2],
-                     getter.get_stemme(aktoerid))
+                     GETTER.get_stemme(aktoerid))
 
     return stemmer
 
@@ -83,11 +72,11 @@ def vote_case(afstemningid):
     """Return case profile for the prompted vote id.
     """
 
-    for afstemning in getter.get_afstemning():
+    for afstemning in GETTER.get_afstemning():
         if afstemning['id'] == afstemningid:
             sagstrinid = afstemning['sagstrinid']
             break
 
-    sagid = getter.get_sagstrin(sagstrinid)['sagid']
+    sagid = GETTER.get_sagstrin(sagstrinid)['sagid']
 
-    return getter.get_sag(sagid)
+    return GETTER.get_sag(sagid)
