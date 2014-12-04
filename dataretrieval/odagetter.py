@@ -10,8 +10,9 @@ from oda.ft.dk.
 import requests as rq
 import json
 import os
-parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-os.sys.path.insert(0, parentdir)
+
+PARENTDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, PARENTDIR)
 
 
 class OdaGetter:
@@ -19,17 +20,19 @@ class OdaGetter:
     the ODA database at oda.ft.dk.
     """
 
-    def __write_to_database__(self, data, filename):
+    @classmethod
+    def _write_to_database(cls, data, filename):
         """Write data to filename and return nothing.
         """
-        with open(parentdir + '/storing/database/%s.txt' % filename,
+        with open(PARENTDIR + '/storing/database/%s.txt' % filename,
                   'w') as out_data:
             out_data.write(json.dumps(data, indent=1))
 
-    def __read_from_database__(self, filename):
+    @classmethod
+    def _read_from_database(cls, filename):
         """Return data from file in database
         """
-        with open(parentdir + '/storing/database/%s.txt' % filename,
+        with open(PARENTDIR + '/storing/database/%s.txt' % filename,
                   'r') as in_data:
             return json.load(in_data)
 
@@ -38,17 +41,17 @@ class OdaGetter:
         it to the databse if it cannot be readily retrieved from it.
         """
         if filename is None:
-                filename = url.split('/')[-1]
+            filename = url.split('/')[-1]
 
         try:
-            return self.__read_from_database__(filename)
+            return self._read_from_database(filename)
         except IOError:
             self.data = rq.get(url).json()
 
             try:
-                self.nextLink = self.data['odata.nextLink']
+                self.nextlink = self.data['odata.nextLink']
             except KeyError:
-                self.__write_to_database__(self.data, filename)
+                self._write_to_database(self.data, filename)
                 return self.data
 
             self.new_data = self.data
@@ -56,13 +59,13 @@ class OdaGetter:
 
             while True:
                 if 'odata.nextLink' in self.new_data:
-                    self.nextLink = self.new_data['odata.nextLink']
-                    self.new_data = rq.get(self.nextLink).json()
+                    self.nextlink = self.new_data['odata.nextLink']
+                    self.new_data = rq.get(self.nextlink).json()
                     self.data.extend(self.new_data['value'])
                 else:
                     break
 
-            self.__write_to_database__(self.data, filename)
+            self._write_to_database(self.data, filename)
             print "Writing to database"
 
             return self.data
@@ -111,7 +114,7 @@ class OdaGetter:
 
         return self.get_odata_with_db(self.url, self.filename)
 
-    def get_LB_sager(self):
+    def get_lb_sager(self):
         """Returns a JSON containing all cases with number-prefixes L and B.
         """
         self.url = "http://oda.ft.dk/api/Sag?$filter=nummerprefix eq 'L' or"\
