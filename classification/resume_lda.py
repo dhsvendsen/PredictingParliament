@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 
+import os
+parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, parentdir)
+
 from dataretrieval.odagetter import OdaGetter
 from gensim import corpora, models
 from gensim.utils import simple_preprocess
 import nltk
 import nltk.corpus
 import numpy as np
-import os
-
-parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-os.sys.path.insert(0, parentdir)
 
 
 def lda_topics(resume):
@@ -19,7 +19,7 @@ def lda_topics(resume):
 
     Parameters
     ----------
-    resume : string
+    resume : text-string
         An arbitrary string on which LDA analysis will be performed
 
     Returns

@@ -39,7 +39,7 @@ def classifier_score(features, targets, classifier):
         A numpy.array class-index. See also
         classification.classifier_data.dataset_X_y
         
-    classifier : classifer
+    classifier : classifer-like
         A classifier class that takes numpy arrays. Function developed with
         Sci-kit learn classifiers.
 

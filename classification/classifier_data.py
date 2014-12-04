@@ -10,21 +10,34 @@ rows of zeros, i.e. features that were never present will be deleted in the
 final step of this script.
 """
 
+import os
+parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, parentdir)
+
 from dataretrieval.odagetter import OdaGetter
 from dataretrieval.odaparsers import single_MP, MP_votes, vote_case
 from resume_lda import lda_topics
 import xml.etree.ElementTree as ET
 import numpy as np
-import os
-
-parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-os.sys.path.insert(0, parentdir)
 
 getter = OdaGetter()
 
 
 def feat_party(caseid):
     """Return feature array representing the party of the proposing MP (PMP).
+
+    Parameters
+    ----------
+    caseid : id-integer
+        Int-type corresponding to the case-id with which the cases voted on in
+        the parliament, in the current term, are indexed on www.oda.ft.dk
+
+    Returns
+    -------
+    out : feature-array
+        A numpy array of n_parties length conataining 0's and a 1 at the
+        appropriate entry corresponding to how the parties are indexed on
+        www.oda.ft.dk
     """
 
     parties = ['Venstre', 'Socialdemokratiet', 'Socialistisk Folkeparti',
@@ -64,7 +77,22 @@ def feat_party(caseid):
 
 def feat_category(case_categoryid):
     """Return feature array representing the category of the proposition.
+
+    Parameters
+    ----------
+    case_categoryid : id-integer
+        Int-type corresponding to the particular category of the case in
+        question, pertaining to the way the categorys are indexed on
+        www.oda.ft.dk
+
+    Returns
+    -------
+    out : feature-array
+        A numpy array of n_categories length, conataining 0's and a 1 at the
+        appropriate entry corresponding to how the parties are indexed on
+        www.oda.ft.dk
     """
+
     feat_array = np.zeros(17)  # There are 17 different categories
     feat_array[case_categoryid-1] = 1
 
@@ -72,9 +100,21 @@ def feat_category(case_categoryid):
 
 
 def feat_L_or_B(case_nummerprefix):
-    """Return feature array representing whether proposition is bill (L) or
-    motion (B).
+    """Return feature array representing whether proposition is bill ('L') or
+    motion ('B').
+
+    Parameters
+    ----------
+    case_nummerprefix : prefix-string
+        Str-type corresponding to the case being a bill ('L') or a motion ('B')
+
+    Returns
+    -------
+    out : feature-array
+        A numpy array of length 2, conataining a 0 and a 1.
+        [1, 0] for 'L' and [0, 1] for 'B'
     """
+
     if case_nummerprefix == 'L':
         return np.array([1., 0.])
     elif case_nummerprefix == 'B':
@@ -86,7 +126,18 @@ def feat_L_or_B(case_nummerprefix):
 def remove_zero_cols(X):
     """Takes a numpy array or matrix and removes coloumns that consist only of
     zeros
+
+    Parameters
+    ----------
+    X : array-type
+        Numpy array or matrix type of n_rows, n_cols > 1
+
+    Returns
+    -------
+    out : array-type with no zero-cols
+        The given X numpy array or matrix with zero-coloumns removed
     """
+
     zero_cols = []
     for i in range(X.shape[1]):
         if sum(X[:, i]) == 0:
@@ -100,11 +151,11 @@ def dataset_X_y(aktoerid):
     """Return a clean dataset X of features for every case the given MP has
     voted in, along with a target vector y, representing his/her vote in said
     case.
-    
+
     Parameters
     ----------
-    aktoerid : integer
-        ID-integer corresponding to the actor-id with with the members of
+    aktoerid : id-integer
+        Int-type corresponding to the actor-id with which the members of
         parliament are indexed on www.oda.ft.dk
 
     Returns
@@ -112,7 +163,7 @@ def dataset_X_y(aktoerid):
     out1 : feature-array
         A data matrix of numpy.array type, each row containing the features of
         a particular case in which the MP in question voted.
-        
+
     out2 : target-array
         A numpy.array of classindices, representing the binary vote result.
     """

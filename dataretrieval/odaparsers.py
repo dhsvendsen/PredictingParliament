@@ -7,11 +7,11 @@ each MP to return a list of tuples that can be used to train a classifier.
 each MP decision classifier.
 """
 
-from odagetter import OdaGetter
-import re
 import os
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, parentdir)
+from odagetter import OdaGetter
+import re
 
 getter = OdaGetter()
 
