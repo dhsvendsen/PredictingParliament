@@ -11,7 +11,7 @@ import dataretrieval.odaparsers as opa
 import pickle
 
 def predict_votes(data_object):
-    """Predict the votes of the politicians
+    """Predict votes of members of parliament (MPs) using classifiers.
     """
     predictions = []
     all_mp = [(dicts['id'], dicts['navn']) for dicts in opa.all_mps()]
