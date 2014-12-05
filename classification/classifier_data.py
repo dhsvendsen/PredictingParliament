@@ -8,8 +8,10 @@ the function 'dataset_X_y', which calls each of the functions prefixed with
 each iteration over a list of votes cast by an MP.
 """
 
+from os.path import abspath, dirname
 import os
-PARENTDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+PARENTDIR = dirname(dirname(abspath(__file__)))
 os.sys.path.insert(0, PARENTDIR)
 
 from dataretrieval.odagetter import OdaGetter
