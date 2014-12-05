@@ -26,10 +26,13 @@
             {% for v in votes %}
             <tr class="{% ifequal v.1 1 %}success{% else %}danger{% endifequal %}">
                     <td>{{ v.0 }}</td>
-                    <td>Enhedslisten</td>
+                    <td>{{party_member|get_item:v.0}}</td>
                     <td>{% ifequal v.1 1 %}Yes{% else %}No{% endifequal %}</td>
                 </tr>
             {% endfor %}
         </tbody>
     </table>
 {% endif %}
+
+
+{# {{ mydict|get_item:item.NAME }} #}
