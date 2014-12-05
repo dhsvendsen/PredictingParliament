@@ -24,6 +24,7 @@ from scipy import stats
 import math
 import utils
 import json
+from django.template.defaulttags import register
 
 
 def index(request):
@@ -57,14 +58,11 @@ def predict(request):
         ]
 
     proposals = ['Beslutningsforslag', 'Lovforslag']
-    GDRAT_abs_path = join(dirname(realpath(__file__)), 'party_member.txt')
-    with open(GDRAT_abs_path, 'r') as f:
-        party_member = json.load(f)
-    print party_member
-    print type(party_member)
 
-#    with open('party_member.txt', 'r') as infile:
-#        party_member = json.load(infile)
+#   Load a dictionary that maps politicians to their parties
+    party_member_path = join(dirname(realpath(__file__)), 'party_member.txt')
+    with open(party_member_path, 'r') as f:
+        party_member = json.load(f)
 
     title, proposing_party, case_category, proposal_type, summary = (
         request.POST['title'],
@@ -106,9 +104,15 @@ def predict(request):
     no_votes = math.ceil(100-yes_votes)
 
     context = {'votes': predictions,
+               'party_member': party_member,
                'final': final,
                'yes': yes_votes,
                'no': no_votes}
 
     html = render_to_string('query_folketinget/show_predictions.html', context)
     return HttpResponse(html, content_type='application/javascript')
+
+@register.filter
+def get_item(dictionary, key):
+    """Facilitate dictionary lookup in a django template."""
+    return dictionary.get(key)
