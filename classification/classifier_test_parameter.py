@@ -38,7 +38,7 @@ def classifier_score(feats, targs, clf=DecisionTreeClassifier(max_depth=5)):
 
     Returns
     -------
-    out : accuracy or 'A majority class classifier'
+    out : classifier-accuracy
         Accuracy computed by 10-fold statisfied CV, float type, or notification
         of trivial classifier.
     """
@@ -59,7 +59,7 @@ def classifier_score(feats, targs, clf=DecisionTreeClassifier(max_depth=5)):
     pred = clf.predict(feats)
 
     if np.mean(pred) % 1 == 0:
-        print 'A majority class classifier'
+        print 'Warning: A majority class classifier'
         return np.mean(accuracies)
     else:
         return np.mean(accuracies)
