@@ -82,11 +82,13 @@ if __name__ == '__main__':
         else:
             print "Invalid entry"
 
-    try:
-        X = np.load(PARENTDIR + '/storing/matrices/X_{}.npy'.format(MP_ID))
-        y = np.load(PARENTDIR + '/storing/matrices/y_{}.npy'.format(MP_ID))
-    except IOError:
-        X, y = classifier_data.dataset_X_y(MP_ID)
+    #try:
+    #    X = np.load(PARENTDIR + '/storing/matrices/X_{}.npy'.format(MP_ID))
+    #    y = np.load(PARENTDIR + '/storing/matrices/y_{}.npy'.format(MP_ID))
+    #except IOError:
+    #    X, y = classifier_data.dataset_X_y(MP_ID)
+
+    X, y = classifier_data.dataset_X_y(MP_ID)
 
     # Initialize different classifiers from sklearns library and test accuracy.
     names = ["Nearest Neighbors", "Linear SVM", "RBF SVM", "Decision Tree",
