@@ -17,7 +17,7 @@ from sklearn.qda import QDA
 import numpy as np
 
 
-def classifier_score(features, targets, classifier):
+def classifier_score(features, targets, classifier=DecisionTreeClassifier(max_depth=5)):
     """Performs stratisfied K-fold crossvalidation and for a classifier with a
     specified dataset. Then checks for the event that the trained classifier is
     trivial (all predictions equal to majority class).
@@ -59,7 +59,8 @@ def classifier_score(features, targets, classifier):
     pred = classifier.predict(features)
 
     if np.mean(pred) % 1 == 0:
-        return 'A majority class classifier'
+        print 'A majority class classifier'
+        return np.mean(accuracies)
     else:
         return np.mean(accuracies)
 
@@ -74,11 +75,9 @@ if __name__ == '__main__':
     valid_list = [mp['id'] for mp in opa.all_mps()]
 
     while True:
-        try:
-            MP_ID = int(raw_input('Enter valid MP ID Integer: '))
-        except:
-            continue
-        if MP_ID in valid_list:
+        MP_ID = raw_input('Enter valid MP ID Integer: ')
+
+        if MP_ID.isdigit() and int(MP_ID) in valid_list:
             break
         else:
             print "Invalid entry"

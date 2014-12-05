@@ -21,8 +21,7 @@ import xml.etree.ElementTree as ET
 import numpy as np
 
 
-if __name__ == '__main__':
-    GETTER = OdaGetter()
+GETTER = OdaGetter()
 
 
 def feat_party(caseid):
