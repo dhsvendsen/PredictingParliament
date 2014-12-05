@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
 
-"""This module deals with the parsing of data from ODA into a format that
-is understood by a classifier. 'dataset_X_y()' is called for
-each MP to return a list of tuples that can be used to train a classifier.
-'all_mps' is called as an array to loop over to generate train data for
-each MP decision classifier.
+"""This submodule handles parsing of data retrieved by 'odagetter' submodule.
+
+Contains functions that parse methods from the 'odagetter.OdaGetter' class.
+All of these functions, except for 'all_mps', are imported into the
+'classification.classifier_data' submodule, to create arrays of features for
+use in the 'dataset_X_y' function of this submodule. 'all_mps' is imported
+into the main function 'generate_classifiers' and used for looping over all
+MPs to train individual classifiers for each.
 """
 
 import os
@@ -18,11 +21,29 @@ GETTER = OdaGetter()
 
 
 def all_mps():
-    """Return a filtered version of get_aktoer() that only contains MPs and
-    id and name for each.
-    """
+    """Return clean list of MPs.
 
-    # Create a clean list of MPs from file.
+    This function creates a filtered version of
+    'odagetter.OdaGetter.get_aktoer' that only contains acting and voting
+    members of parliament (MPs) names and corresponding IDs. It is imported in
+    the main function 'generate_classifiers'.
+
+    Returns
+    -------
+    out : MP-list
+        List-type record of all acting members of
+
+        Example
+        -------
+        [
+         {u'id': 5, u'navn': u'Frank Aaen'},
+         {u'id': 12, u'navn': u'Nicolai Wammen'},
+         {u'id': 13, u'navn': u'Sara Olsvig'},
+         {u'id': 17, u'navn': u'Christine Antorini'},
+         {u'id': 18, u'navn': u'Alex Ahrendtsen'},
+         ...
+        ]
+    """
     with open(PARENTDIR + '/MF_list.txt', 'r') as in_file:
         mp_list_raw = in_file.read().decode('utf-8')
         pattern = re.compile(r'(.+)')
@@ -47,9 +68,23 @@ def all_mps():
 
 
 def single_mp(aktoerid):
-    """Return profile for the prompted MP.
-    """
+    """Return profile for a given MP.
 
+    This function uses 'odagetter.OdaGetter.get_aktoer' to pick out a single
+    MP profile. It is imported in 'classification.classifier_data', and used
+    in the function 'feat_party' of that submodule.
+
+    Parameters
+    ----------
+    aktoerid : id-integer
+        Int-type ID refering to a specific MP.
+
+    Returns
+    -------
+    out : MP-dictionary
+        Dict-type object that contains information about a single MP. Output
+        is identical a list element of 'odagetter.OdaGetter.get_aktoer' return.
+    """
     for mp in GETTER.get_aktoer():
         if aktoerid == mp['id']:
             return mp
@@ -58,10 +93,36 @@ def single_mp(aktoerid):
 
 
 def mp_votes(aktoerid):
-    """Return a JSON containing vote type and references to each vote a
-    member has cast.
-    """
+    r"""Return clean list of votes cast by given MP.
 
+    This function uses 'odagetter.OdaGetter.get_stemme' with an argument
+    corresponding to the ID of an MP, and returns a clean list where all
+    votes that are not of type 1 (FOR) or type 2 (AGAINST) are sorted out.
+    It is imported in 'classification.classifier_data', and used in the
+    function 'dataset_X_y' of that submodule, to through each vote the MP
+    has cast and extract features from the corresponding cases.
+
+    Parameter
+    ---------
+    aktoerid : id-integer
+        Int-type ID refering to a specific MP.
+
+    Returns
+    -------
+    out : data-list
+        List-type JSON readable dataset.
+
+        Example
+        -------
+        [
+         {u'afstemningid': 1,
+          u'akt\xf8rid': 5,
+          u'id': 53,
+          u'opdateringsdato': u'2014-09-09T09:05:59.653',
+          u'typeid': 1},
+          ...
+        ]
+    """
     stemmer = filter(lambda x: x['typeid'] in [1, 2],
                      GETTER.get_stemme(aktoerid))
 
@@ -69,9 +130,26 @@ def mp_votes(aktoerid):
 
 
 def vote_case(afstemningid):
-    """Return case profile for the prompted vote id.
-    """
+    """Return case data for the prompted vote ID (da: 'afstemningid').
 
+    This function uses 'odagetter.OdaGetter.get_afstemning' to pick out, for a
+    given vote ID, the case stage ID (da: 'sagstrinid'), then uses
+    'odagetter.OdaGetter.get_sagstrin' to get the case ID (da: 'sagid'), then
+    uses 'odagetter.OdaGetter.get_sag' to get the case data for this case ID.
+    It is imported in 'classification.classifier_data' and used in the function
+    'dataset_X_y', where it offers a convenient way to access the needed data.
+
+    Parameters
+    ----------
+    afstemningid : id-integer
+        Int-type vote ID.
+
+    Returns
+    -------
+    out : data-list
+        Dictionary containing information about a given case. Return output is
+        identical to that of 'odagetter.OdaGetter.get_sag'.
+    """
     for afstemning in GETTER.get_afstemning():
         if afstemning['id'] == afstemningid:
             sagstrinid = afstemning['sagstrinid']

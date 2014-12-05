@@ -4,8 +4,8 @@
 
 The parliament database is distributed and maintained by the Danish Parliament.
 It is made available using the Open Data Protocol (Odata) which allows non
-associated persons to freely query the database using a url query language. 
-The database is made available at oda.ft.dk.
+associated persons to freely query the database using a url query language.
+The database is made available at www.oda.ft.dk.
 """
 
 import requests as rq
@@ -16,12 +16,13 @@ PARENTDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, PARENTDIR)
 
 
-class OdaGetter:
+class OdaGetter(object):
 
     """Retrieve data from the parliament database.
 
     This class is strictly related to retrieving data from the parliament
-    database through Odata.
+    database through the Open Data Protocol (Odata). The database can be found
+    at www.oda.ft.dk.
     """
 
     @classmethod
@@ -46,8 +47,8 @@ class OdaGetter:
         Parameters
         ----------
         url : url-string
-            Str-type query url, specifying the wanted dataset. Must be 
-            constructed in accordance to the syntax rules specified at 
+            Str-type query url, specifying the wanted dataset. Must be
+            constructed in accordance to the syntax rules specified at
             http://www.odata.org/documentation.
 
         filename : filename-string
@@ -112,7 +113,7 @@ class OdaGetter:
 
 
     def get_aktoer(self):
-        """Return actors in parliament.
+        r"""Return actors in parliament.
 
         Uses 'odata_with_db' to retrieve a list of data for each actor in the
         parliament. This include any person or group that the parliament
@@ -126,19 +127,17 @@ class OdaGetter:
             Example
             -------
             [
-             {
-              "typeid": 5, 
-              "periodeid": null, 
-              "startdato": null, 
-              "biografi": "<?xml version=\"1.0\" encoding=\"utf-16\"?>(...)", 
-              "gruppenavnkort": null, 
-              "opdateringsdato": "2014-09-11T17:59:38.67", 
-              "slutdato": null, 
-              "navn": "Frank Aaen", 
-              "efternavn": "Aaen", 
-              "fornavn": "Frank", 
-              "id": 5
-             },
+             {u'biografi': u'<?xml version="1.0" encoding="utf-16"?>(...)',
+              u'efternavn': u'Aaen',
+              u'fornavn': u'Frank',
+              u'gruppenavnkort': None,
+              u'id': 5,
+              u'navn': u'Frank Aaen',
+              u'opdateringsdato': u'2014-09-11T17:59:38.67',
+              u'periodeid': None,
+              u'slutdato': None,
+              u'startdato': None,
+              u'typeid': 5},
              ...
             ]
         """
@@ -149,7 +148,7 @@ class OdaGetter:
 
 
     def get_stemme(self, aktoerid):
-        """Return all votes cast by a member of parliament (MP).
+        r"""Return all votes cast by a member of parliament (MP).
 
         Uses 'odata_with_db' to retrieve a list of all votes the a given MP
         has cast. 'Returns' is not specified below as this is explained in
@@ -169,14 +168,12 @@ class OdaGetter:
             Example
             -------
             [
-             {
-              "typeid": 1, 
-              "akt\u00f8rid": 5, 
-              "afstemningid": 1, 
-              "id": 53, 
-              "opdateringsdato": "2014-09-09T09:05:59.653"
-             }, 
-             ...
+             {u'afstemningid': 1,
+              u'akt\xf8rid': 5,
+              u'id': 53,
+              u'opdateringsdato': u'2014-09-09T09:05:59.653',
+              u'typeid': 1},
+              ...
             ]
         """
         self.url = 'http://oda.ft.dk/api/Stemme?$filter=aktørid'\
@@ -187,7 +184,7 @@ class OdaGetter:
 
 
     def get_afstemning(self):
-        """Return all parliamentary votes in parliament.
+        r"""Return all parliamentary votes in parliament.
 
         Uses 'odata_with_db' to retrieve a list of all parliamentary votes
         in parliament.
@@ -200,18 +197,12 @@ class OdaGetter:
             Example
             -------
             [
-             {
-              "vedtaget": true, 
-              "typeid": 2, 
-              "nummer": 411, 
-              "sagstrinid": null, 
-              "opdateringsdato": "2014-09-09T09:05:59.653", 
-              "m\u00f8deid": 17, 
-              "konklusion": "Vedtaget\n\n108 stemmer for (...)", 
-              "id": 1, 
-              "kommentar": null
-             }, 
-             ...
+             {u'afstemningid': 792,
+              u'akt\xf8rid': 5,
+              u'id': 753,
+              u'opdateringsdato': u'2014-09-19T14:41:03',
+              u'typeid': 3},
+              ...
             ]
         """
         self.url = 'http://oda.ft.dk/api/Afstemning'
@@ -221,7 +212,7 @@ class OdaGetter:
 
 
     def get_sag(self, sagid):
-        """Return a specific case.
+        r"""Return a specific case.
 
         Uses 'odata_with_db' to retrieve a dictionary object with information
         about a specific case.
@@ -240,38 +231,36 @@ class OdaGetter:
 
             Example
             -------
-            {
-             "periodeid": 32, 
-             "titel": "Forslag til lov om \u00e6ndring af (...)", 
-             "afg\u00f8relsesdato": null, 
-             "afstemningskonklusion": "Vedtaget\n\n98 stemmer (...)", 
-             "retsinformationsurl": null, 
-             "paragraf": "", 
-             "nummernumerisk": "200", 
-             "id": 1449, 
-             "nummerpostfix": "", 
-             "begrundelse": "", 
-             "fremsatundersagid": null, 
-             "opdateringsdato": "2014-09-26T12:32:36.103", 
-             "statsbudgetsag": true, 
-             "lovnummerdato": null, 
-             "statusid": 11, 
-             "nummerprefix": "L", 
-             "afg\u00f8relsesresultatkode": "", 
-             "paragrafnummer": null, 
-             "deltundersagid": null, 
-             "kategoriid": 13, 
-             "lovnummer": "992", 
-             "resume": "Lovforslaget \u00e6ndrer (...)", 
-             "odata.metadata": "http://oda.ft.dk/api/(...)", 
-             "offentlighedskode": "O", 
-             "baggrundsmateriale": null, 
-             "titelkort": "Om indgreb mod utilsigtet udnyttelse (...)", 
-             "typeid": 3, 
-             "nummer": "L 200", 
-             "afg\u00f8relse": "", 
-             "r\u00e5dsm\u00f8dedato": null
-            }
+            {u'afg\xf8relse': u'',
+             u'afg\xf8relsesdato': None,
+             u'afg\xf8relsesresultatkode': u'',
+             u'afstemningskonklusion': u'Vedtaget\n\n111 stemmer for (...)',
+             u'baggrundsmateriale': None,
+             u'begrundelse': u'',
+             u'deltundersagid': None,
+             u'fremsatundersagid': None,
+             u'id': 69,
+             u'kategoriid': 13,
+             u'lovnummer': u'306',
+             u'lovnummerdato': None,
+             u'nummer': u'L 107',
+             u'nummernumerisk': u'107',
+             u'nummerpostfix': u'',
+             u'nummerprefix': u'L',
+             u'odata.metadata': u'http://oda.ft.dk/api/%24metadata#Sag/(...)',
+             u'offentlighedskode': u'O',
+             u'opdateringsdato': u'2014-09-12T20:00:31.7',
+             u'paragraf': u'',
+             u'paragrafnummer': None,
+             u'periodeid': 32,
+             u'resume': u'Loven om Danmarks Innovationsfond bygger (...)',
+             u'retsinformationsurl': None,
+             u'r\xe5dsm\xf8dedato': None,
+             u'statsbudgetsag': True,
+             u'statusid': 11,
+             u'titel': u'Forslag til lov om Danmarks Innovationsfond.',
+             u'titelkort': u'Om Danmarks Innovationsfond.',
+             u'typeid': 3}
         """
         self.url = 'http://oda.ft.dk/api/Sag(%d)' % sagid
         self.filename = 'sag' + str(sagid)
@@ -302,7 +291,7 @@ class OdaGetter:
 
 
     def get_ministeromraaede_aktoer(self):
-        """Return all ministries in parliament.
+        r"""Return all ministries in parliament.
 
         Uses 'odata_with_db' to retrieve a list of all ministries in
         parliament.
@@ -314,20 +303,18 @@ class OdaGetter:
             Example
             -------
             [
-             {
-              "typeid": 1, 
-              "periodeid": null, 
-              "startdato": null, 
-              "biografi": "", 
-              "gruppenavnkort": null, 
-              "opdateringsdato": "2014-11-14T11:38:35.957", 
-              "slutdato": null, 
-              "navn": "Finansministeriet", 
-              "efternavn": null, 
-              "fornavn": "Finansministeriet", 
-              "id": 2
-             },
-             ...
+             {u'biografi': u'',
+              u'efternavn': None,
+              u'fornavn': u'Finansministeriet',
+              u'gruppenavnkort': None,
+              u'id': 2,
+              u'navn': u'Finansministeriet',
+              u'opdateringsdato': u'2014-11-14T11:38:35.957',
+              u'periodeid': None,
+              u'slutdato': None,
+              u'startdato': None,
+              u'typeid': 1},
+              ...
             ]
         """
         self.url = 'http://oda.ft.dk/api/Aktør?$filter=typeid eq 1'
@@ -340,12 +327,12 @@ class OdaGetter:
         """Return case stage (da: 'sagstrin').
 
         Uses 'odata' to retrieve a dictionary object with case stage
-        data for a parliamentary vote. Is used to get the 'sagid' (en: caseid).
+        data for a parliamentary vote. Is used to get the 'sagid' (en: 'case ID').
 
         Parameters
         ----------
         sagstrinid : id-integer
-            Int-type case stage id.
+            Int-type case stage ID.
 
         Returns
         -------
@@ -354,19 +341,17 @@ class OdaGetter:
 
             Example
             -------
-            {
-             "typeid": 17, 
-             "folketingstidendesidenummer": "", 
-             "titel": "Eventuelt: 3. behandling", 
-             "opdateringsdato": "2014-11-07T13:01:55.26", 
-             "odata.metadata": "http://oda.ft.dk/api/(...)",
-             "folketingstidendeurl": "", 
-             "sagid": 1449, 
-             "statusid": 41, 
-             "dato": "2014-09-09T09:15:00", 
-             "folketingstidende": "F", 
-             "id": 4849
-            }
+            {u'dato': u'2014-09-09T09:15:00',
+             u'folketingstidende': u'F',
+             u'folketingstidendesidenummer': u'',
+             u'folketingstidendeurl': u'',
+             u'id': 4849,
+             u'odata.metadata': u'http://oda.ft.dk/api/(...)',
+             u'opdateringsdato': u'2014-11-07T13:01:55.26',
+             u'sagid': 1449,
+             u'statusid': 41,
+             u'titel': u'Eventuelt: 3. behandling',
+             u'typeid': 17}
         """
         self.url = 'http://oda.ft.dk/api/Sagstrin(%d)' % sagstrinid
 
@@ -376,7 +361,7 @@ class OdaGetter:
     def get_sagaktoer(self, sagid, rolleid):
         """Return ID of actor that occupies a given role in a given case.
 
-        Used to return id of actor that proposed a case (rolleid = 19) or 
+        Used to return id of actor that proposed a case (rolleid = 19) or
         ministry that the case originated from (rolleid = 6).
 
         Parameters
