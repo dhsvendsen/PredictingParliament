@@ -10,9 +10,10 @@ import dataretrieval.odagetter as oget
 import dataretrieval.odaparsers as opa
 
 # Tests for odagetter
-GETTER = oget.OdaGetter(?!?!?!)
+#GETTER = oget.OdaGetter(?!?!?!)
 
-def test_feat_party():
+def test_hmmm():
+    pass
     
     
 # Tests for odagetter
