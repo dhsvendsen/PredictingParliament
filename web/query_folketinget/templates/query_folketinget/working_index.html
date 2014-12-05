@@ -1,0 +1,82 @@
+{% extends "query_folketinget/base.html" %}
+
+{% load staticfiles %}
+
+{% block content %}
+	<div class="row">
+		<h2>Predict Folketinget</h2>
+		<form role="form" method="post" action="{% url 'query_folketinget:predict' %}">
+			{% csrf_token %}
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="form-group">
+						<label>Title</label>
+							<input type="text" class="  search-query form-control" name="title" placeholder="Title" />
+					</div>
+				</div>
+			</div>
+			
+			<div class="form-group">
+				<div class="row">
+					<div class="col-sm-4">
+						<label for="sel1">Proposing Party</label>
+						<select class="form-control" id="proposing_party" name="proposing_party">
+							<option></option>
+							<option>Venstre</option>
+							<option>Socialdemokratiet</option>
+							<option>Socialistisk Folkeparti</option>
+							<option>Dansk Folkeparti</option>
+							<option>Radikale Venstre</option>
+							<option>Enhedslisten</option>
+							<option>Liberal Alliance</option>
+							<option>Det Konservative Folkeparti</option>
+						</select>
+					</div>
+					<div class="col-sm-4">
+						<label for="sel2">Case Category</label>
+						<select class="form-control" id="case_category" name="case_category">
+							<option></option>
+							<option>Beretning af almen art</option>
+							<option>Alm. del</option>
+							<option>FT</option>
+							<option>Henvendelser uden bilagsnummer</option>
+							<option>Mødesag</option>
+							<option>Info-noter</option>
+							<option>US</option>
+							<option>Alm. del &sect;-markeret</option>
+							<option>EU-noter</option>
+							<option>B1 - Privat forslag - 1. (eneste) beh.</option>
+							<option>S</option>
+							<option>Privat forslag</option>
+							<option>Regeringsforslag</option>
+							<option>B3</option>
+							<option>B1 - Privat forslag</option>
+							<option>B2</option>
+							<option>B1 - Regeringsforslag</option>
+						</select>
+					</div>
+					<div class="col-sm-4">
+						<label for="sel3">Proposal Type</label>
+						<select class="form-control" id="proposal_type" name="proposal_type">
+							<option></option>
+							<option>Beslutningsforslag</option>
+							<option>Lovforslag</option>
+						</select>
+					</div>
+				</div>
+			</div>
+			<div class="form-group answer" id="summary">
+				<label for="resume">Summary</label>
+				<textarea class="form-control" rows="6" id="resume" name="summary">
+				</textarea>
+			</div>
+			<button id="" class="btn btn-danger" type="submit">
+				Predict <!--<span class=" glyphicon glyphicon-search"></span>-->
+			</button>
+		</form>
+	</div>
+	<div id="prediction_results">
+		{% include "query_folketinget/show_predictions.html" %}
+	</div>
+{% endblock content %}
+

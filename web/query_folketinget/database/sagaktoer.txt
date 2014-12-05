@@ -1,0 +1,101 @@
+{
+ "odata.metadata": "http://oda.ft.dk/api/%24metadata#SagAkt%C3%B8rRolle", 
+ "odata.count": "19", 
+ "value": [
+  {
+   "rolle": "Taler", 
+   "id": 1, 
+   "opdateringsdato": "2014-06-24T15:13:26.853"
+  }, 
+  {
+   "rolle": "Ordf\u00f8rer for forslagsstillerne", 
+   "id": 2, 
+   "opdateringsdato": "2014-06-24T15:13:26.853"
+  }, 
+  {
+   "rolle": "Tidligere henvist til", 
+   "id": 3, 
+   "opdateringsdato": "2014-06-24T15:13:26.853"
+  }, 
+  {
+   "rolle": "Af", 
+   "id": 4, 
+   "opdateringsdato": "2014-10-30T15:51:24.503"
+  }, 
+  {
+   "rolle": "Medsp\u00f8rger", 
+   "id": 5, 
+   "opdateringsdato": "2014-10-20T14:41:56.337"
+  }, 
+  {
+   "rolle": "Ministeromr\u00e5de", 
+   "id": 6, 
+   "opdateringsdato": "2014-10-31T12:28:47.657"
+  }, 
+  {
+   "rolle": "Privatist", 
+   "id": 7, 
+   "opdateringsdato": "2014-06-24T15:13:26.853"
+  }, 
+  {
+   "rolle": "Kopi sendt til", 
+   "id": 8, 
+   "opdateringsdato": "2014-06-24T15:13:26.853"
+  }, 
+  {
+   "rolle": "Relevant for", 
+   "id": 9, 
+   "opdateringsdato": "2014-10-31T20:02:45.49"
+  }, 
+  {
+   "rolle": "Sp\u00f8rger", 
+   "id": 10, 
+   "opdateringsdato": "2014-10-31T11:18:28.607"
+  }, 
+  {
+   "rolle": "Henvist til", 
+   "id": 11, 
+   "opdateringsdato": "2014-10-30T15:35:42.52"
+  }, 
+  {
+   "rolle": "Udsteder", 
+   "id": 12, 
+   "opdateringsdato": "2014-06-24T15:13:26.853"
+  }, 
+  {
+   "rolle": "Optaget af", 
+   "id": 13, 
+   "opdateringsdato": "2014-06-24T15:13:26.853"
+  }, 
+  {
+   "rolle": "Minister", 
+   "id": 14, 
+   "opdateringsdato": "2014-10-31T13:26:36.737"
+  }, 
+  {
+   "rolle": "Foresp\u00f8rger", 
+   "id": 15, 
+   "opdateringsdato": "2014-06-24T15:13:26.853"
+  }, 
+  {
+   "rolle": "Forslagsstiller (priv.)", 
+   "id": 16, 
+   "opdateringsdato": "2014-10-08T16:34:33.09"
+  }, 
+  {
+   "rolle": "Til", 
+   "id": 17, 
+   "opdateringsdato": "2014-10-21T13:58:47.207"
+  }, 
+  {
+   "rolle": "Afgivet af", 
+   "id": 18, 
+   "opdateringsdato": "2014-06-24T15:13:26.853"
+  }, 
+  {
+   "rolle": "Forslagsstiller (reg.)", 
+   "id": 19, 
+   "opdateringsdato": "2014-10-15T10:34:57.923"
+  }
+ ]
+}

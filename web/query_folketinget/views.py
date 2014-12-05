@@ -1,15 +1,8 @@
 # -*- coding: utf-8 -*-
-
 from __future__ import division
-from os.path import abspath, dirname
-import os
-
-PPARENTDIR = dirname(dirname(dirname(abspath(__file__))))
-os.sys.path.insert(0, PPARENTDIR)
-
-import classification.resume_lda as rlda
 from django.shortcuts import render
 from django.http import HttpResponse
+import resume_lda
 import HTMLParser
 import numpy as np
 from django.views.decorators.csrf import csrf_protect
@@ -39,11 +32,12 @@ def predict(request):
     ]
     categories = [
         u'Beretning af almen art', u'Alm. del', u'FT',
-        u'Henvendelser uden bilagsnummer', u'Mødesag', u'Info-noter', u'US',
-        u'Alm. del §-markeret', u'EU-noter',
-        u'B1 - Privat forslag - 1. (eneste) beh.', u'S', u'Privat forslag',
-        u'Regeringsforslag', u'B3', u'B1 - Privat forslag', u'B2',
-        u'B1 - Regeringsforslag'
+        u'Henvendelser uden bilagsnummer',
+        u'Mødesag', u'Info-noter', u'US', u'Alm. del §-markeret',
+        u'EU-noter',
+        u'B1 - Privat forslag - 1. (eneste) beh.', u'S',
+        u'Privat forslag', u'Regeringsforslag', u'B3',
+        u'B1 - Privat forslag', u'B2', u'B1 - Regeringsforslag'
     ]
     proposals = ['Beslutningsforslag', 'Lovforslag']
     GDRAT_abs_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'party_member.txt')
@@ -77,7 +71,7 @@ def predict(request):
         [1 if e == proposal_type else 0 for e in proposals]
     )
     text_input = title + " " + summary
-    topic_array = rlda.lda_topics(text_input)
+    topic_array = resume_lda.lda_topics(text_input)
     #All the input data is combined in one array
     for inp in (c_category_input, p_type_input, topic_array):
         input_list.extend(inp)
