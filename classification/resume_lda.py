@@ -16,9 +16,9 @@ def lda_topics(resume):
     """Return vector of topic distribution for a string.
 
     This function attempts to load an existing Latent Dirichlet Allocation
-    (LDA) model, and trains a new one the a corpus based on all case
-    resumes (in BOW representation) is transformed by 'term frequency–inverse
-    document frequency' method.
+    (LDA) model, and if it fails, trains a new one on the corpus based on all
+    case resumes (in bag of words (BOW) representation) transformed by the
+    'term frequency–inverse document frequency' method.
 
     Parameters
     ----------
@@ -29,6 +29,14 @@ def lda_topics(resume):
     -------
     out : topic-array
         A numpy array of n_topic length with topic weighs
+
+        Example
+        -------
+        array([ 0.        , 0.        , 0.        , 0.        , 0.        ,
+                0.        , 0.        , 0.        , 0.        , 0.        ,
+                0.23698658, 0.        , 0.        , 0.        , 0.        ,
+                0.        , 0.        , 0.        , 0.        , 0.        ,
+                0.        , 0.        , 0.        , 0.60968009, 0.        ])
     """
 
     n_topic = 25
@@ -39,7 +47,6 @@ def lda_topics(resume):
                 '/all_resume_model_modified_%s.model' % str(n_topic))
         dictionary = corpora.Dictionary.load(PARENTDIR + '/storing/'\
                 'ldamodel/all_resume_dict_modified_%s.dict' % str(n_topic))
-
     except IOError:
         # Retrieve all resumes
         getter = OdaGetter()
