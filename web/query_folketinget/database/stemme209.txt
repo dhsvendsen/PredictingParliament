@@ -1,0 +1,9228 @@
+[
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1, 
+  "id": 79, 
+  "opdateringsdato": "2014-09-09T09:05:59.653"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 2, 
+  "id": 258, 
+  "opdateringsdato": "2014-09-09T09:25:05.717"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 790, 
+  "id": 365, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 791, 
+  "id": 543, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 792, 
+  "id": 723, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 793, 
+  "id": 901, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 794, 
+  "id": 1080, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 795, 
+  "id": 1260, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 796, 
+  "id": 1439, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 797, 
+  "id": 1618, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 798, 
+  "id": 1797, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 799, 
+  "id": 1975, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 800, 
+  "id": 2155, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 801, 
+  "id": 2335, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 802, 
+  "id": 2514, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 803, 
+  "id": 2693, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 804, 
+  "id": 2872, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 805, 
+  "id": 3051, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 806, 
+  "id": 3230, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 807, 
+  "id": 3409, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 808, 
+  "id": 3588, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 809, 
+  "id": 3767, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 810, 
+  "id": 3946, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 811, 
+  "id": 4125, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 812, 
+  "id": 4304, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 813, 
+  "id": 4483, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 814, 
+  "id": 4661, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 815, 
+  "id": 4841, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 816, 
+  "id": 5020, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 817, 
+  "id": 5197, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 818, 
+  "id": 5378, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 819, 
+  "id": 5557, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 820, 
+  "id": 5735, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 821, 
+  "id": 5915, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 822, 
+  "id": 6094, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 823, 
+  "id": 6273, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 824, 
+  "id": 6451, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 825, 
+  "id": 6631, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 826, 
+  "id": 6810, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 827, 
+  "id": 6988, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 828, 
+  "id": 7167, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 829, 
+  "id": 7347, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 830, 
+  "id": 7526, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 831, 
+  "id": 7705, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 832, 
+  "id": 7884, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 833, 
+  "id": 8063, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 834, 
+  "id": 8241, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 835, 
+  "id": 8420, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 836, 
+  "id": 8600, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 837, 
+  "id": 8779, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 838, 
+  "id": 8958, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 839, 
+  "id": 9137, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 840, 
+  "id": 9316, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 841, 
+  "id": 9494, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 842, 
+  "id": 9674, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 843, 
+  "id": 9852, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 844, 
+  "id": 10032, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 845, 
+  "id": 10211, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 846, 
+  "id": 10389, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 847, 
+  "id": 10569, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 848, 
+  "id": 10748, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 849, 
+  "id": 10926, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 850, 
+  "id": 11106, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 851, 
+  "id": 11285, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 852, 
+  "id": 11464, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 853, 
+  "id": 11643, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 854, 
+  "id": 11820, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 855, 
+  "id": 11998, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 856, 
+  "id": 12178, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 857, 
+  "id": 12355, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 858, 
+  "id": 12536, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 859, 
+  "id": 12715, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 860, 
+  "id": 12893, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 861, 
+  "id": 13071, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 862, 
+  "id": 13250, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 863, 
+  "id": 13430, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 864, 
+  "id": 13608, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 865, 
+  "id": 13788, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 866, 
+  "id": 13969, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 867, 
+  "id": 14147, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 868, 
+  "id": 14324, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 869, 
+  "id": 14501, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 870, 
+  "id": 14679, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 871, 
+  "id": 14857, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 872, 
+  "id": 15035, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 873, 
+  "id": 15212, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 874, 
+  "id": 15391, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 875, 
+  "id": 15569, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 876, 
+  "id": 15748, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 877, 
+  "id": 15926, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 878, 
+  "id": 16106, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 879, 
+  "id": 16284, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 880, 
+  "id": 16461, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 881, 
+  "id": 16640, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 882, 
+  "id": 16818, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 883, 
+  "id": 16996, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 884, 
+  "id": 17171, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 885, 
+  "id": 17349, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 886, 
+  "id": 17530, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 887, 
+  "id": 17712, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 888, 
+  "id": 17890, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 889, 
+  "id": 18065, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 890, 
+  "id": 18251, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 892, 
+  "id": 18603, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 893, 
+  "id": 18736, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 894, 
+  "id": 18915, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 895, 
+  "id": 19094, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 896, 
+  "id": 19273, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 897, 
+  "id": 19452, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 898, 
+  "id": 19635, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 899, 
+  "id": 19815, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 900, 
+  "id": 19995, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 901, 
+  "id": 20171, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 902, 
+  "id": 20349, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 4, 
+  "id": 20620, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 681, 
+  "id": 20845, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 682, 
+  "id": 20985, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 683, 
+  "id": 21161, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 684, 
+  "id": 21340, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 685, 
+  "id": 21518, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 686, 
+  "id": 21701, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 687, 
+  "id": 21879, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 688, 
+  "id": 22058, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 689, 
+  "id": 22232, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 690, 
+  "id": 22411, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 691, 
+  "id": 22590, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 692, 
+  "id": 22770, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 693, 
+  "id": 22950, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 694, 
+  "id": 23129, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 695, 
+  "id": 23308, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 696, 
+  "id": 23488, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 697, 
+  "id": 23715, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 698, 
+  "id": 23893, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 699, 
+  "id": 24073, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 700, 
+  "id": 24251, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 701, 
+  "id": 24429, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 702, 
+  "id": 24608, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 703, 
+  "id": 24787, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 704, 
+  "id": 24966, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 705, 
+  "id": 25145, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 706, 
+  "id": 25324, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 707, 
+  "id": 25503, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 708, 
+  "id": 25637, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 709, 
+  "id": 25817, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 710, 
+  "id": 25996, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 711, 
+  "id": 26175, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 712, 
+  "id": 26354, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 713, 
+  "id": 26533, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 714, 
+  "id": 26713, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 715, 
+  "id": 26892, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 716, 
+  "id": 27071, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 717, 
+  "id": 27250, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 718, 
+  "id": 27425, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 719, 
+  "id": 27604, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 720, 
+  "id": 27782, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 721, 
+  "id": 27961, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 722, 
+  "id": 28139, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 723, 
+  "id": 28322, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 724, 
+  "id": 28500, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 725, 
+  "id": 28680, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 726, 
+  "id": 28858, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 727, 
+  "id": 29037, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 728, 
+  "id": 29216, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 729, 
+  "id": 29396, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 730, 
+  "id": 29574, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 731, 
+  "id": 29754, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 732, 
+  "id": 29933, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 733, 
+  "id": 30111, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 734, 
+  "id": 30290, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 735, 
+  "id": 30467, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 736, 
+  "id": 30648, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 737, 
+  "id": 30820, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 738, 
+  "id": 31000, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 739, 
+  "id": 31179, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 740, 
+  "id": 31358, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 741, 
+  "id": 31537, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 742, 
+  "id": 31716, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 743, 
+  "id": 31895, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 744, 
+  "id": 32074, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 745, 
+  "id": 32253, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 746, 
+  "id": 32431, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 747, 
+  "id": 32611, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 748, 
+  "id": 32790, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 749, 
+  "id": 32968, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 750, 
+  "id": 33148, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 751, 
+  "id": 33327, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 752, 
+  "id": 33502, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 753, 
+  "id": 33681, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 754, 
+  "id": 33859, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 755, 
+  "id": 34039, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 756, 
+  "id": 34219, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 757, 
+  "id": 34395, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 758, 
+  "id": 34577, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 759, 
+  "id": 34755, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 760, 
+  "id": 34935, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 761, 
+  "id": 35114, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 762, 
+  "id": 35293, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 763, 
+  "id": 35470, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 764, 
+  "id": 35651, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 765, 
+  "id": 35829, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 766, 
+  "id": 36006, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 767, 
+  "id": 36187, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 768, 
+  "id": 36364, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 769, 
+  "id": 36546, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 770, 
+  "id": 36724, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 771, 
+  "id": 36901, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 772, 
+  "id": 37082, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 773, 
+  "id": 37261, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 774, 
+  "id": 37441, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 775, 
+  "id": 37620, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 776, 
+  "id": 37799, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 777, 
+  "id": 37977, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 778, 
+  "id": 38157, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 779, 
+  "id": 38335, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 780, 
+  "id": 38512, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 781, 
+  "id": 38694, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 782, 
+  "id": 38872, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 783, 
+  "id": 39051, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 784, 
+  "id": 39231, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 785, 
+  "id": 39409, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 786, 
+  "id": 39589, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 787, 
+  "id": 39768, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 788, 
+  "id": 39947, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 789, 
+  "id": 40126, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 903, 
+  "id": 40526, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 904, 
+  "id": 40708, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 905, 
+  "id": 40885, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 906, 
+  "id": 41057, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 907, 
+  "id": 41240, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 908, 
+  "id": 41419, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 909, 
+  "id": 41601, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 910, 
+  "id": 41780, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 911, 
+  "id": 41957, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 912, 
+  "id": 42137, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 913, 
+  "id": 42315, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 914, 
+  "id": 42494, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 915, 
+  "id": 42673, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 916, 
+  "id": 42851, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 917, 
+  "id": 43029, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 918, 
+  "id": 43208, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 919, 
+  "id": 43431, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 920, 
+  "id": 43612, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 921, 
+  "id": 43791, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 456, 
+  "id": 43968, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 457, 
+  "id": 44102, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 458, 
+  "id": 44284, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 459, 
+  "id": 44463, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 460, 
+  "id": 44642, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 461, 
+  "id": 44820, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 462, 
+  "id": 45000, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 463, 
+  "id": 45179, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 464, 
+  "id": 45358, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 465, 
+  "id": 45537, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 466, 
+  "id": 45714, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 467, 
+  "id": 45943, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 468, 
+  "id": 46122, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 469, 
+  "id": 46246, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 470, 
+  "id": 46425, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 471, 
+  "id": 46605, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 472, 
+  "id": 46784, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 473, 
+  "id": 46962, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 474, 
+  "id": 47140, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 475, 
+  "id": 47321, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 476, 
+  "id": 47501, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 477, 
+  "id": 47680, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 478, 
+  "id": 47857, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 479, 
+  "id": 48036, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 480, 
+  "id": 48214, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 481, 
+  "id": 48394, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 482, 
+  "id": 48572, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 483, 
+  "id": 48752, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 484, 
+  "id": 48936, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 485, 
+  "id": 49115, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 486, 
+  "id": 49295, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 487, 
+  "id": 49467, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 488, 
+  "id": 49647, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 489, 
+  "id": 49826, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 490, 
+  "id": 50006, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 491, 
+  "id": 50238, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 492, 
+  "id": 50415, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 493, 
+  "id": 50594, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 494, 
+  "id": 50773, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 495, 
+  "id": 50904, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 496, 
+  "id": 51085, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 497, 
+  "id": 51265, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 498, 
+  "id": 51444, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 499, 
+  "id": 51622, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 500, 
+  "id": 51803, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 501, 
+  "id": 51982, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 502, 
+  "id": 52160, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 503, 
+  "id": 52340, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 504, 
+  "id": 52516, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 505, 
+  "id": 52694, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 506, 
+  "id": 52873, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 507, 
+  "id": 53052, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 508, 
+  "id": 53229, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 509, 
+  "id": 53411, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 510, 
+  "id": 53588, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 511, 
+  "id": 53766, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 512, 
+  "id": 53945, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 513, 
+  "id": 54125, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 514, 
+  "id": 54303, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 515, 
+  "id": 54482, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 516, 
+  "id": 54661, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 517, 
+  "id": 54841, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 518, 
+  "id": 55021, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 519, 
+  "id": 55246, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 520, 
+  "id": 55378, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 521, 
+  "id": 55560, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 522, 
+  "id": 55740, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 523, 
+  "id": 55915, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 524, 
+  "id": 56098, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 525, 
+  "id": 56276, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 526, 
+  "id": 56455, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 527, 
+  "id": 56634, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 528, 
+  "id": 56812, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 529, 
+  "id": 56991, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 530, 
+  "id": 57169, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 531, 
+  "id": 57348, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 532, 
+  "id": 57527, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 533, 
+  "id": 57705, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 534, 
+  "id": 57885, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 535, 
+  "id": 58062, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 536, 
+  "id": 58242, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 537, 
+  "id": 58419, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 538, 
+  "id": 58600, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 539, 
+  "id": 58778, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 540, 
+  "id": 58956, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 541, 
+  "id": 59134, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 542, 
+  "id": 59314, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 543, 
+  "id": 59494, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 544, 
+  "id": 59674, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 545, 
+  "id": 59850, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 546, 
+  "id": 60031, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 547, 
+  "id": 60211, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 548, 
+  "id": 60389, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 549, 
+  "id": 60569, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 550, 
+  "id": 60748, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 551, 
+  "id": 60973, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 552, 
+  "id": 61153, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 553, 
+  "id": 61331, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 554, 
+  "id": 61511, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 555, 
+  "id": 61690, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 556, 
+  "id": 61869, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 557, 
+  "id": 62047, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 558, 
+  "id": 62227, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 559, 
+  "id": 62354, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 560, 
+  "id": 62536, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 561, 
+  "id": 62715, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 562, 
+  "id": 62894, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 563, 
+  "id": 63072, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 564, 
+  "id": 63252, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 565, 
+  "id": 63431, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 566, 
+  "id": 63609, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 567, 
+  "id": 63788, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 568, 
+  "id": 63967, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 569, 
+  "id": 64146, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 570, 
+  "id": 64325, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 571, 
+  "id": 64501, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 572, 
+  "id": 64684, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 573, 
+  "id": 64867, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 574, 
+  "id": 65045, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 575, 
+  "id": 65223, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 576, 
+  "id": 65403, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 577, 
+  "id": 65582, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 578, 
+  "id": 65760, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 579, 
+  "id": 65940, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 580, 
+  "id": 66119, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 581, 
+  "id": 66298, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 582, 
+  "id": 66476, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 583, 
+  "id": 66656, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 585, 
+  "id": 67019, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 586, 
+  "id": 67198, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 587, 
+  "id": 67376, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 588, 
+  "id": 67555, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 589, 
+  "id": 67735, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 590, 
+  "id": 67913, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 591, 
+  "id": 68093, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 592, 
+  "id": 68271, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 593, 
+  "id": 68449, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 594, 
+  "id": 68629, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 595, 
+  "id": 68807, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 596, 
+  "id": 68986, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 597, 
+  "id": 69165, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 598, 
+  "id": 69346, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 599, 
+  "id": 69524, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 600, 
+  "id": 69703, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 601, 
+  "id": 69882, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 602, 
+  "id": 70060, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 603, 
+  "id": 70240, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 604, 
+  "id": 70417, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 605, 
+  "id": 70597, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 606, 
+  "id": 70777, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 607, 
+  "id": 70956, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 608, 
+  "id": 71135, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 609, 
+  "id": 71315, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 610, 
+  "id": 71493, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 611, 
+  "id": 71670, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 612, 
+  "id": 71851, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 613, 
+  "id": 72030, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 614, 
+  "id": 72259, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 615, 
+  "id": 72440, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 616, 
+  "id": 72617, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 617, 
+  "id": 72797, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 618, 
+  "id": 72975, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 619, 
+  "id": 73156, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 620, 
+  "id": 73334, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 621, 
+  "id": 73514, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 622, 
+  "id": 73691, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 623, 
+  "id": 73870, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 624, 
+  "id": 74050, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 625, 
+  "id": 74229, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 626, 
+  "id": 74406, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 627, 
+  "id": 74547, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 628, 
+  "id": 74726, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 629, 
+  "id": 74905, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 630, 
+  "id": 75066, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 631, 
+  "id": 75245, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 632, 
+  "id": 75423, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 633, 
+  "id": 75603, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 634, 
+  "id": 75783, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 635, 
+  "id": 75962, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 636, 
+  "id": 76143, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 637, 
+  "id": 76321, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 638, 
+  "id": 76500, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 639, 
+  "id": 76677, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 640, 
+  "id": 76857, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 641, 
+  "id": 77036, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 642, 
+  "id": 77211, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 643, 
+  "id": 77392, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 644, 
+  "id": 77571, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 645, 
+  "id": 77751, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 646, 
+  "id": 77929, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 647, 
+  "id": 78109, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 648, 
+  "id": 78288, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 649, 
+  "id": 78466, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 650, 
+  "id": 78646, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 651, 
+  "id": 78845, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 652, 
+  "id": 79024, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 653, 
+  "id": 79204, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 654, 
+  "id": 79386, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 655, 
+  "id": 79563, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 656, 
+  "id": 79743, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 657, 
+  "id": 79900, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 658, 
+  "id": 80077, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 659, 
+  "id": 80259, 
+  "opdateringsdato": "2014-09-19T14:41:03"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 660, 
+  "id": 80436, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 661, 
+  "id": 80616, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 662, 
+  "id": 80794, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 663, 
+  "id": 80973, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 664, 
+  "id": 81152, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 665, 
+  "id": 81330, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 666, 
+  "id": 81510, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 667, 
+  "id": 81687, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 668, 
+  "id": 81867, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 669, 
+  "id": 82046, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 670, 
+  "id": 82225, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 671, 
+  "id": 82404, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 672, 
+  "id": 82582, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 673, 
+  "id": 82760, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 674, 
+  "id": 82938, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 675, 
+  "id": 83118, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 676, 
+  "id": 83298, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 677, 
+  "id": 83477, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 678, 
+  "id": 83658, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 679, 
+  "id": 83836, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 680, 
+  "id": 84013, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 322, 
+  "id": 84194, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 323, 
+  "id": 84373, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 324, 
+  "id": 84553, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 325, 
+  "id": 84731, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 326, 
+  "id": 84912, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 327, 
+  "id": 85088, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 328, 
+  "id": 85268, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 329, 
+  "id": 85447, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 330, 
+  "id": 85626, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 331, 
+  "id": 85805, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 332, 
+  "id": 85985, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 333, 
+  "id": 86163, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 334, 
+  "id": 86343, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 335, 
+  "id": 86574, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 336, 
+  "id": 86751, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 337, 
+  "id": 86931, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 338, 
+  "id": 87109, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 339, 
+  "id": 87288, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 340, 
+  "id": 87468, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 341, 
+  "id": 87645, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 342, 
+  "id": 87825, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 343, 
+  "id": 88003, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 344, 
+  "id": 88184, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 345, 
+  "id": 88361, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 346, 
+  "id": 88541, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 347, 
+  "id": 88721, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 348, 
+  "id": 88899, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 349, 
+  "id": 89079, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 350, 
+  "id": 89258, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 351, 
+  "id": 89434, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 352, 
+  "id": 89614, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 353, 
+  "id": 89794, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 354, 
+  "id": 89925, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 355, 
+  "id": 90102, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 356, 
+  "id": 90274, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 357, 
+  "id": 90455, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 358, 
+  "id": 90634, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 359, 
+  "id": 90816, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 360, 
+  "id": 90994, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 361, 
+  "id": 91180, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 362, 
+  "id": 91357, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 363, 
+  "id": 91534, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 364, 
+  "id": 91711, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 365, 
+  "id": 91891, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 366, 
+  "id": 92073, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 367, 
+  "id": 92250, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 368, 
+  "id": 92429, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 369, 
+  "id": 92608, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 370, 
+  "id": 92787, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 371, 
+  "id": 92965, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 372, 
+  "id": 93146, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 373, 
+  "id": 93324, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 374, 
+  "id": 93560, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 375, 
+  "id": 93685, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 376, 
+  "id": 93858, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 377, 
+  "id": 94126, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 378, 
+  "id": 94305, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 379, 
+  "id": 94395, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 380, 
+  "id": 94663, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 381, 
+  "id": 94844, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 382, 
+  "id": 94934, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 383, 
+  "id": 95112, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 384, 
+  "id": 95291, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 385, 
+  "id": 95468, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 386, 
+  "id": 95655, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 387, 
+  "id": 95834, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 388, 
+  "id": 96012, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 389, 
+  "id": 96191, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 390, 
+  "id": 96457, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 391, 
+  "id": 96637, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 392, 
+  "id": 96816, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 393, 
+  "id": 96995, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 394, 
+  "id": 97174, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 395, 
+  "id": 97353, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 396, 
+  "id": 97531, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 397, 
+  "id": 97711, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 398, 
+  "id": 97806, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 399, 
+  "id": 97987, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 400, 
+  "id": 98166, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 401, 
+  "id": 98428, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 402, 
+  "id": 98606, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 403, 
+  "id": 98783, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 404, 
+  "id": 98961, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 405, 
+  "id": 99142, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 406, 
+  "id": 99321, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 407, 
+  "id": 99500, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 408, 
+  "id": 99679, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 409, 
+  "id": 99858, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 410, 
+  "id": 100037, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 411, 
+  "id": 100217, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 412, 
+  "id": 100396, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 413, 
+  "id": 100575, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 414, 
+  "id": 100661, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 415, 
+  "id": 100842, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 416, 
+  "id": 101020, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 417, 
+  "id": 101201, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 418, 
+  "id": 101379, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 419, 
+  "id": 101558, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 420, 
+  "id": 101738, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 421, 
+  "id": 101917, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 422, 
+  "id": 102096, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 423, 
+  "id": 102273, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 424, 
+  "id": 102454, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 425, 
+  "id": 102632, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 426, 
+  "id": 102812, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 427, 
+  "id": 102991, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 428, 
+  "id": 103168, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 429, 
+  "id": 103349, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 430, 
+  "id": 103527, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 431, 
+  "id": 103704, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 432, 
+  "id": 103886, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 433, 
+  "id": 104065, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 434, 
+  "id": 104244, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 435, 
+  "id": 104421, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 436, 
+  "id": 104602, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 437, 
+  "id": 104781, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 438, 
+  "id": 104960, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 439, 
+  "id": 105139, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 440, 
+  "id": 105318, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 441, 
+  "id": 105497, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 442, 
+  "id": 105676, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 443, 
+  "id": 105855, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 444, 
+  "id": 106033, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 445, 
+  "id": 106220, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 446, 
+  "id": 106398, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 447, 
+  "id": 106576, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 448, 
+  "id": 106750, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 449, 
+  "id": 106931, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 450, 
+  "id": 107110, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 451, 
+  "id": 107290, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 452, 
+  "id": 107468, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 453, 
+  "id": 107648, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 454, 
+  "id": 107825, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 455, 
+  "id": 108004, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 312, 
+  "id": 108182, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 313, 
+  "id": 108361, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 314, 
+  "id": 108539, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 315, 
+  "id": 108720, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 316, 
+  "id": 108899, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 317, 
+  "id": 109077, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 318, 
+  "id": 109260, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 319, 
+  "id": 109524, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 320, 
+  "id": 109703, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 321, 
+  "id": 109882, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 305, 
+  "id": 110060, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 306, 
+  "id": 110240, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 307, 
+  "id": 110419, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 308, 
+  "id": 110596, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 309, 
+  "id": 110776, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 310, 
+  "id": 110956, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 311, 
+  "id": 111135, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 296, 
+  "id": 111314, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 297, 
+  "id": 111493, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 298, 
+  "id": 111672, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 299, 
+  "id": 111849, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 300, 
+  "id": 112030, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 301, 
+  "id": 112209, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 302, 
+  "id": 112387, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 303, 
+  "id": 112567, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 304, 
+  "id": 112746, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 278, 
+  "id": 112925, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 279, 
+  "id": 113105, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 280, 
+  "id": 113283, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 281, 
+  "id": 113369, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 282, 
+  "id": 113548, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 283, 
+  "id": 113725, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 284, 
+  "id": 113905, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 285, 
+  "id": 114082, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 286, 
+  "id": 114264, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 287, 
+  "id": 114443, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 288, 
+  "id": 114621, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 289, 
+  "id": 114799, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 290, 
+  "id": 114979, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 291, 
+  "id": 115158, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 292, 
+  "id": 115335, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 293, 
+  "id": 115517, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 294, 
+  "id": 115715, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 295, 
+  "id": 115891, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 261, 
+  "id": 116058, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 262, 
+  "id": 116236, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 263, 
+  "id": 116416, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 264, 
+  "id": 116594, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 265, 
+  "id": 116774, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 266, 
+  "id": 116954, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 267, 
+  "id": 117132, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 268, 
+  "id": 117313, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 269, 
+  "id": 117492, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 270, 
+  "id": 117671, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 271, 
+  "id": 117849, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 272, 
+  "id": 118029, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 273, 
+  "id": 118207, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 274, 
+  "id": 118390, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 275, 
+  "id": 118569, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 276, 
+  "id": 118746, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 277, 
+  "id": 118926, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 251, 
+  "id": 119102, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 252, 
+  "id": 119281, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 253, 
+  "id": 119460, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 254, 
+  "id": 119640, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 255, 
+  "id": 119819, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 256, 
+  "id": 119998, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 257, 
+  "id": 120174, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 258, 
+  "id": 120352, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 259, 
+  "id": 120531, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 260, 
+  "id": 120709, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 241, 
+  "id": 120889, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 242, 
+  "id": 121067, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 247, 
+  "id": 122053, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 248, 
+  "id": 122232, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 249, 
+  "id": 122411, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 250, 
+  "id": 122591, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 217, 
+  "id": 122770, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 218, 
+  "id": 122947, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 219, 
+  "id": 123127, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 220, 
+  "id": 123306, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 221, 
+  "id": 123485, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 222, 
+  "id": 123664, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 223, 
+  "id": 123841, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 224, 
+  "id": 124021, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 225, 
+  "id": 124200, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 226, 
+  "id": 124378, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 227, 
+  "id": 124558, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 228, 
+  "id": 124737, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 229, 
+  "id": 124916, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 230, 
+  "id": 125095, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 231, 
+  "id": 125274, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 232, 
+  "id": 125453, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 233, 
+  "id": 125632, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 234, 
+  "id": 125811, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 235, 
+  "id": 125990, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 236, 
+  "id": 126169, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 237, 
+  "id": 126347, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 238, 
+  "id": 126526, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 239, 
+  "id": 126707, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 240, 
+  "id": 126886, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 203, 
+  "id": 127065, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 204, 
+  "id": 127244, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 205, 
+  "id": 127423, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 206, 
+  "id": 127602, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 207, 
+  "id": 127690, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 208, 
+  "id": 127870, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 209, 
+  "id": 128049, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 210, 
+  "id": 128228, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 211, 
+  "id": 128407, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 212, 
+  "id": 128584, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 213, 
+  "id": 128762, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 214, 
+  "id": 128942, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 215, 
+  "id": 129131, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 216, 
+  "id": 129310, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 198, 
+  "id": 129488, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 199, 
+  "id": 129668, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 200, 
+  "id": 129845, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 201, 
+  "id": 130024, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 202, 
+  "id": 130197, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 197, 
+  "id": 130381, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 179, 
+  "id": 130558, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 180, 
+  "id": 130734, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 181, 
+  "id": 130915, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 182, 
+  "id": 131094, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 183, 
+  "id": 131275, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 184, 
+  "id": 131453, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 185, 
+  "id": 131720, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 186, 
+  "id": 131805, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 187, 
+  "id": 131982, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 188, 
+  "id": 132255, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 189, 
+  "id": 132340, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 190, 
+  "id": 132521, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 191, 
+  "id": 132700, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 192, 
+  "id": 132877, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 193, 
+  "id": 133151, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 194, 
+  "id": 133242, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 195, 
+  "id": 133420, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 196, 
+  "id": 133599, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 169, 
+  "id": 133779, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 170, 
+  "id": 133958, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 171, 
+  "id": 134136, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 172, 
+  "id": 134315, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 173, 
+  "id": 134492, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 174, 
+  "id": 134678, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 175, 
+  "id": 134852, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 176, 
+  "id": 135031, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 177, 
+  "id": 135212, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 178, 
+  "id": 135391, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 160, 
+  "id": 135570, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 161, 
+  "id": 135748, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 162, 
+  "id": 135929, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 163, 
+  "id": 136108, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 164, 
+  "id": 136287, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 165, 
+  "id": 136465, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 166, 
+  "id": 136646, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 167, 
+  "id": 136824, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 168, 
+  "id": 137004, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 155, 
+  "id": 137184, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 156, 
+  "id": 137360, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 157, 
+  "id": 137539, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 158, 
+  "id": 137719, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 159, 
+  "id": 137897, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 133, 
+  "id": 138077, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 134, 
+  "id": 138256, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 135, 
+  "id": 138434, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 136, 
+  "id": 138613, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 137, 
+  "id": 138790, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 138, 
+  "id": 138965, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 139, 
+  "id": 139145, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 140, 
+  "id": 139324, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 141, 
+  "id": 139504, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 142, 
+  "id": 139684, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 143, 
+  "id": 139860, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 144, 
+  "id": 140041, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 145, 
+  "id": 140220, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 146, 
+  "id": 140398, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 147, 
+  "id": 140582, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 148, 
+  "id": 140760, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 149, 
+  "id": 140940, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 150, 
+  "id": 141118, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 151, 
+  "id": 141295, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 152, 
+  "id": 141473, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 153, 
+  "id": 141654, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 154, 
+  "id": 141834, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 115, 
+  "id": 142011, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 116, 
+  "id": 142186, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 117, 
+  "id": 142370, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 118, 
+  "id": 142549, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 119, 
+  "id": 142726, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 120, 
+  "id": 142905, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 121, 
+  "id": 143084, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 122, 
+  "id": 143264, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 123, 
+  "id": 143444, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 124, 
+  "id": 143623, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 125, 
+  "id": 143801, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 126, 
+  "id": 143978, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 127, 
+  "id": 144160, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 128, 
+  "id": 144338, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 129, 
+  "id": 144515, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 130, 
+  "id": 144695, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 93, 
+  "id": 144874, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 131, 
+  "id": 145143, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 132, 
+  "id": 145323, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 102, 
+  "id": 145501, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 103, 
+  "id": 145681, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 104, 
+  "id": 145860, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 105, 
+  "id": 146039, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 106, 
+  "id": 146218, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 107, 
+  "id": 146396, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 108, 
+  "id": 146575, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 109, 
+  "id": 146755, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 114, 
+  "id": 146934, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 110, 
+  "id": 147112, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 111, 
+  "id": 147292, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 112, 
+  "id": 147470, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 113, 
+  "id": 147650, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 94, 
+  "id": 147829, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 95, 
+  "id": 148006, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 96, 
+  "id": 148187, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 97, 
+  "id": 148366, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 98, 
+  "id": 148545, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 99, 
+  "id": 148724, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 100, 
+  "id": 148903, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 101, 
+  "id": 149081, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 80, 
+  "id": 149260, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 81, 
+  "id": 149440, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 82, 
+  "id": 149619, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 83, 
+  "id": 149796, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 84, 
+  "id": 149975, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 85, 
+  "id": 150154, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 86, 
+  "id": 150333, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 87, 
+  "id": 150512, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 88, 
+  "id": 150691, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 89, 
+  "id": 150786, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 90, 
+  "id": 150964, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 91, 
+  "id": 151143, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 92, 
+  "id": 151317, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 72, 
+  "id": 151500, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 73, 
+  "id": 151678, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 74, 
+  "id": 151857, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 75, 
+  "id": 152038, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 76, 
+  "id": 152216, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 77, 
+  "id": 152395, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 78, 
+  "id": 152573, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 79, 
+  "id": 152751, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 55, 
+  "id": 152930, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 56, 
+  "id": 153111, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 57, 
+  "id": 153289, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 58, 
+  "id": 153467, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 59, 
+  "id": 153647, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 60, 
+  "id": 153825, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 61, 
+  "id": 154004, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 62, 
+  "id": 154184, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 63, 
+  "id": 154362, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 64, 
+  "id": 154542, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 65, 
+  "id": 154722, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 66, 
+  "id": 154899, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 67, 
+  "id": 155079, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 68, 
+  "id": 155258, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 69, 
+  "id": 155437, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 70, 
+  "id": 155615, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 71, 
+  "id": 155796, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 49, 
+  "id": 155976, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 50, 
+  "id": 156156, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 51, 
+  "id": 156336, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 52, 
+  "id": 156513, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 53, 
+  "id": 156692, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 54, 
+  "id": 156872, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 39, 
+  "id": 157050, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 40, 
+  "id": 157227, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 41, 
+  "id": 157408, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 42, 
+  "id": 157585, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 43, 
+  "id": 157766, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 44, 
+  "id": 157944, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 45, 
+  "id": 158125, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 46, 
+  "id": 158303, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 47, 
+  "id": 158480, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 48, 
+  "id": 158659, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 35, 
+  "id": 158838, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 36, 
+  "id": 159017, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 37, 
+  "id": 159196, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 38, 
+  "id": 159376, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 34, 
+  "id": 159553, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 28, 
+  "id": 159733, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 29, 
+  "id": 159911, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 30, 
+  "id": 160090, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 31, 
+  "id": 160270, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 32, 
+  "id": 160447, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 33, 
+  "id": 160629, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 21, 
+  "id": 160806, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 22, 
+  "id": 160987, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 23, 
+  "id": 161166, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 24, 
+  "id": 161344, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 25, 
+  "id": 161521, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 26, 
+  "id": 161702, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 27, 
+  "id": 161881, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 16, 
+  "id": 162059, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 17, 
+  "id": 162239, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 18, 
+  "id": 162418, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 19, 
+  "id": 162597, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 20, 
+  "id": 162777, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 12, 
+  "id": 162954, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 13, 
+  "id": 163135, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 14, 
+  "id": 163313, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 15, 
+  "id": 163492, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 9, 
+  "id": 163670, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 10, 
+  "id": 163850, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 11, 
+  "id": 164030, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 8, 
+  "id": 164207, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 7, 
+  "id": 164386, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 6, 
+  "id": 164561, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 5, 
+  "id": 164743, 
+  "opdateringsdato": "2014-09-22T15:44:12"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 922, 
+  "id": 165007, 
+  "opdateringsdato": "2014-10-01T23:39:17.327"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 923, 
+  "id": 165095, 
+  "opdateringsdato": "2014-10-02T09:31:11.673"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 924, 
+  "id": 165282, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 925, 
+  "id": 165508, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 926, 
+  "id": 165636, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 928, 
+  "id": 165999, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 929, 
+  "id": 166178, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 930, 
+  "id": 166359, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 931, 
+  "id": 166539, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 932, 
+  "id": 166717, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 933, 
+  "id": 166936, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 934, 
+  "id": 167123, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 935, 
+  "id": 167302, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 936, 
+  "id": 167479, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1112, 
+  "id": 167677, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1113, 
+  "id": 167869, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1114, 
+  "id": 168047, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1115, 
+  "id": 168226, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1116, 
+  "id": 168404, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1117, 
+  "id": 168584, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1118, 
+  "id": 168763, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1119, 
+  "id": 168942, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1120, 
+  "id": 169116, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1121, 
+  "id": 169294, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1122, 
+  "id": 169476, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1123, 
+  "id": 169654, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1124, 
+  "id": 169833, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1125, 
+  "id": 170010, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1126, 
+  "id": 170190, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1127, 
+  "id": 170369, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1128, 
+  "id": 170547, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1129, 
+  "id": 170726, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1130, 
+  "id": 170903, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1131, 
+  "id": 171134, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1132, 
+  "id": 171314, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1133, 
+  "id": 171492, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1134, 
+  "id": 171672, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1135, 
+  "id": 171851, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1136, 
+  "id": 172030, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1137, 
+  "id": 172212, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1138, 
+  "id": 172388, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1139, 
+  "id": 172568, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1140, 
+  "id": 172747, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1141, 
+  "id": 172926, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1142, 
+  "id": 173105, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1143, 
+  "id": 173282, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1144, 
+  "id": 173459, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1145, 
+  "id": 173641, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1146, 
+  "id": 173820, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1147, 
+  "id": 173999, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1148, 
+  "id": 174176, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1149, 
+  "id": 174357, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1150, 
+  "id": 174535, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1151, 
+  "id": 174714, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1152, 
+  "id": 174892, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1153, 
+  "id": 175069, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1154, 
+  "id": 175203, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1155, 
+  "id": 175428, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1156, 
+  "id": 175609, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1157, 
+  "id": 175787, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1158, 
+  "id": 175965, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1159, 
+  "id": 176142, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1160, 
+  "id": 176281, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1161, 
+  "id": 176457, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1162, 
+  "id": 176636, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1163, 
+  "id": 176817, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1164, 
+  "id": 176994, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1165, 
+  "id": 177173, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1166, 
+  "id": 177352, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1167, 
+  "id": 177533, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1168, 
+  "id": 177714, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1169, 
+  "id": 177893, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1170, 
+  "id": 178072, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1171, 
+  "id": 178251, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1172, 
+  "id": 178429, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1173, 
+  "id": 178609, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1174, 
+  "id": 178788, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1175, 
+  "id": 178963, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1176, 
+  "id": 179145, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1177, 
+  "id": 179323, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1178, 
+  "id": 179503, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1179, 
+  "id": 179682, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1180, 
+  "id": 179911, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1181, 
+  "id": 180088, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1182, 
+  "id": 180268, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1183, 
+  "id": 180446, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1184, 
+  "id": 180626, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1185, 
+  "id": 180804, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1186, 
+  "id": 180984, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1187, 
+  "id": 181163, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1188, 
+  "id": 181343, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1189, 
+  "id": 181522, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1190, 
+  "id": 181701, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1191, 
+  "id": 181880, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1192, 
+  "id": 182058, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1193, 
+  "id": 182237, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1194, 
+  "id": 182413, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1195, 
+  "id": 182594, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1196, 
+  "id": 182776, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1197, 
+  "id": 182956, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1198, 
+  "id": 183128, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1199, 
+  "id": 183309, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1200, 
+  "id": 183489, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1201, 
+  "id": 183666, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1202, 
+  "id": 183845, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1203, 
+  "id": 184021, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1204, 
+  "id": 184201, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1205, 
+  "id": 184379, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1206, 
+  "id": 184559, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1207, 
+  "id": 184738, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1208, 
+  "id": 184917, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1209, 
+  "id": 185096, 
+  "opdateringsdato": "2014-10-06T16:11:04"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 937, 
+  "id": 187667, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 941, 
+  "id": 187845, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 942, 
+  "id": 188022, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 943, 
+  "id": 188203, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 938, 
+  "id": 188320, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 939, 
+  "id": 188499, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 940, 
+  "id": 188690, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 944, 
+  "id": 188868, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 945, 
+  "id": 189044, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 946, 
+  "id": 189226, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 947, 
+  "id": 189403, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 948, 
+  "id": 189581, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 949, 
+  "id": 189765, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 950, 
+  "id": 189946, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 951, 
+  "id": 190123, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 952, 
+  "id": 190302, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 953, 
+  "id": 190482, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 954, 
+  "id": 190659, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 955, 
+  "id": 190837, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 956, 
+  "id": 191015, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 960, 
+  "id": 191197, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 961, 
+  "id": 191375, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 962, 
+  "id": 191555, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 963, 
+  "id": 191734, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 964, 
+  "id": 191914, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 965, 
+  "id": 192140, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 966, 
+  "id": 192319, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 967, 
+  "id": 192498, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 968, 
+  "id": 192678, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 969, 
+  "id": 192806, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 970, 
+  "id": 192984, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 971, 
+  "id": 193163, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 972, 
+  "id": 193343, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 973, 
+  "id": 193522, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 974, 
+  "id": 193700, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 979, 
+  "id": 193879, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 980, 
+  "id": 194057, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 981, 
+  "id": 194237, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 975, 
+  "id": 194415, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 976, 
+  "id": 194594, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 982, 
+  "id": 194773, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 977, 
+  "id": 194952, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 978, 
+  "id": 195131, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 957, 
+  "id": 195310, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 958, 
+  "id": 195486, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 959, 
+  "id": 195668, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 983, 
+  "id": 195903, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 984, 
+  "id": 196083, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 985, 
+  "id": 196210, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 986, 
+  "id": 196390, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 987, 
+  "id": 196570, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 988, 
+  "id": 196750, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 989, 
+  "id": 196930, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 990, 
+  "id": 197110, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 991, 
+  "id": 197289, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 992, 
+  "id": 197469, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 993, 
+  "id": 197649, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 994, 
+  "id": 197829, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 995, 
+  "id": 198010, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 996, 
+  "id": 198190, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 997, 
+  "id": 198370, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 998, 
+  "id": 198550, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 999, 
+  "id": 198729, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1000, 
+  "id": 198909, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1001, 
+  "id": 199090, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1002, 
+  "id": 199269, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1003, 
+  "id": 199449, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1004, 
+  "id": 199631, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1005, 
+  "id": 199810, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1006, 
+  "id": 199990, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1007, 
+  "id": 200170, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1008, 
+  "id": 200350, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1009, 
+  "id": 200530, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1010, 
+  "id": 200710, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1011, 
+  "id": 200890, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1012, 
+  "id": 201070, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1013, 
+  "id": 201250, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1014, 
+  "id": 201430, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1015, 
+  "id": 201610, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1016, 
+  "id": 201789, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1017, 
+  "id": 201970, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1018, 
+  "id": 202149, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1019, 
+  "id": 202329, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1020, 
+  "id": 202508, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1021, 
+  "id": 202688, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1022, 
+  "id": 202867, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1023, 
+  "id": 203048, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1024, 
+  "id": 203227, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1025, 
+  "id": 203408, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1026, 
+  "id": 203588, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1027, 
+  "id": 203767, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1028, 
+  "id": 203948, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1029, 
+  "id": 204128, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1030, 
+  "id": 204308, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1031, 
+  "id": 204487, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1032, 
+  "id": 204668, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1033, 
+  "id": 204849, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1034, 
+  "id": 205029, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1035, 
+  "id": 205207, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1036, 
+  "id": 205388, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1037, 
+  "id": 205568, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1038, 
+  "id": 205748, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1039, 
+  "id": 205928, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1040, 
+  "id": 206108, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1041, 
+  "id": 206294, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1042, 
+  "id": 206473, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1047, 
+  "id": 206652, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1043, 
+  "id": 206826, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1044, 
+  "id": 207057, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1045, 
+  "id": 207188, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1048, 
+  "id": 207369, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1046, 
+  "id": 207593, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1049, 
+  "id": 207775, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1050, 
+  "id": 207955, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1051, 
+  "id": 208134, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1052, 
+  "id": 208314, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1053, 
+  "id": 208494, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1054, 
+  "id": 208627, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1055, 
+  "id": 208808, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1056, 
+  "id": 208987, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1057, 
+  "id": 209166, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1058, 
+  "id": 209345, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1059, 
+  "id": 209524, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1060, 
+  "id": 209704, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1061, 
+  "id": 209884, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1062, 
+  "id": 210065, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1063, 
+  "id": 210246, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1068, 
+  "id": 210425, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1069, 
+  "id": 210606, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1070, 
+  "id": 210787, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1071, 
+  "id": 210966, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1072, 
+  "id": 211152, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1073, 
+  "id": 211330, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1074, 
+  "id": 211510, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1075, 
+  "id": 211689, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1076, 
+  "id": 211869, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1077, 
+  "id": 212049, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1078, 
+  "id": 212226, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1079, 
+  "id": 212407, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1080, 
+  "id": 212588, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1081, 
+  "id": 212769, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1082, 
+  "id": 212947, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1083, 
+  "id": 213128, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1084, 
+  "id": 213307, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1090, 
+  "id": 213488, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1085, 
+  "id": 213673, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1086, 
+  "id": 213853, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1087, 
+  "id": 214032, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1088, 
+  "id": 214212, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1089, 
+  "id": 214394, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1064, 
+  "id": 214573, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1065, 
+  "id": 214753, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1066, 
+  "id": 214982, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1067, 
+  "id": 215160, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1091, 
+  "id": 215342, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1092, 
+  "id": 215519, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1093, 
+  "id": 215699, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1094, 
+  "id": 215882, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1095, 
+  "id": 216062, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1096, 
+  "id": 216240, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1097, 
+  "id": 216421, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1098, 
+  "id": 216602, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1099, 
+  "id": 216782, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1100, 
+  "id": 216962, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1101, 
+  "id": 217139, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1102, 
+  "id": 217319, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1103, 
+  "id": 217450, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1104, 
+  "id": 217627, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1105, 
+  "id": 217809, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1106, 
+  "id": 217989, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1107, 
+  "id": 218168, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1108, 
+  "id": 218348, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1109, 
+  "id": 218517, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1110, 
+  "id": 218699, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1111, 
+  "id": 218883, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1210, 
+  "id": 236659, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1211, 
+  "id": 236834, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1212, 
+  "id": 237017, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1213, 
+  "id": 237195, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1214, 
+  "id": 237328, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1215, 
+  "id": 237514, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1216, 
+  "id": 237686, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1217, 
+  "id": 237864, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1218, 
+  "id": 238043, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1219, 
+  "id": 238221, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1220, 
+  "id": 238402, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1221, 
+  "id": 238581, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1222, 
+  "id": 238756, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1223, 
+  "id": 238936, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1224, 
+  "id": 239117, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1225, 
+  "id": 239291, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1226, 
+  "id": 239473, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1227, 
+  "id": 239700, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1228, 
+  "id": 239875, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1229, 
+  "id": 240056, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1230, 
+  "id": 240236, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1231, 
+  "id": 240415, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1232, 
+  "id": 240594, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1233, 
+  "id": 240773, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1234, 
+  "id": 240950, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1235, 
+  "id": 241126, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1236, 
+  "id": 241306, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1237, 
+  "id": 241488, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1238, 
+  "id": 241674, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1239, 
+  "id": 241854, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1240, 
+  "id": 242033, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1241, 
+  "id": 242213, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1242, 
+  "id": 242391, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1243, 
+  "id": 242571, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1244, 
+  "id": 242750, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1245, 
+  "id": 242930, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1246, 
+  "id": 243106, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1247, 
+  "id": 243287, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1248, 
+  "id": 243465, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1249, 
+  "id": 243644, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1250, 
+  "id": 243823, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1251, 
+  "id": 243952, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1252, 
+  "id": 244131, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1253, 
+  "id": 244309, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1254, 
+  "id": 244488, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1255, 
+  "id": 244667, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1256, 
+  "id": 244847, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1257, 
+  "id": 245026, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1258, 
+  "id": 245205, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1259, 
+  "id": 245384, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1260, 
+  "id": 245562, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1261, 
+  "id": 245738, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1262, 
+  "id": 245919, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1263, 
+  "id": 246098, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1264, 
+  "id": 246278, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1265, 
+  "id": 246457, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1266, 
+  "id": 246638, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1267, 
+  "id": 246863, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1268, 
+  "id": 247042, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1269, 
+  "id": 247220, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1270, 
+  "id": 247400, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1271, 
+  "id": 247577, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1272, 
+  "id": 247757, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1273, 
+  "id": 247936, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1274, 
+  "id": 248115, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1275, 
+  "id": 248293, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1276, 
+  "id": 248472, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1277, 
+  "id": 248652, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1278, 
+  "id": 248830, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1279, 
+  "id": 249010, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1280, 
+  "id": 249189, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1281, 
+  "id": 249369, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1282, 
+  "id": 249548, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1283, 
+  "id": 249725, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1284, 
+  "id": 249853, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1285, 
+  "id": 250033, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1286, 
+  "id": 250212, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1287, 
+  "id": 250391, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1288, 
+  "id": 250571, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1289, 
+  "id": 250749, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1290, 
+  "id": 250927, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1291, 
+  "id": 251108, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1292, 
+  "id": 251283, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1293, 
+  "id": 251462, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1294, 
+  "id": 251641, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1295, 
+  "id": 251821, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1296, 
+  "id": 251999, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1297, 
+  "id": 252178, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1298, 
+  "id": 252358, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1299, 
+  "id": 252537, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1300, 
+  "id": 252714, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1301, 
+  "id": 252892, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1302, 
+  "id": 253070, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1303, 
+  "id": 253247, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1304, 
+  "id": 253426, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1305, 
+  "id": 253607, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1306, 
+  "id": 253785, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1307, 
+  "id": 253962, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1308, 
+  "id": 254142, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1309, 
+  "id": 254316, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1310, 
+  "id": 254500, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1311, 
+  "id": 254679, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 2, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1312, 
+  "id": 254858, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1313, 
+  "id": 255099, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1314, 
+  "id": 255277, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1315, 
+  "id": 255456, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1316, 
+  "id": 255636, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1317, 
+  "id": 255809, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1318, 
+  "id": 255992, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1319, 
+  "id": 256170, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1320, 
+  "id": 256351, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1321, 
+  "id": 256530, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1322, 
+  "id": 256709, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1323, 
+  "id": 256889, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1324, 
+  "id": 257069, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 3, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1325, 
+  "id": 257245, 
+  "opdateringsdato": "2014-10-07T09:06:16"
+ }, 
+ {
+  "typeid": 1, 
+  "akt\u00f8rid": 209, 
+  "afstemningid": 1326, 
+  "id": 257372, 
+  "opdateringsdato": "2014-10-10T00:08:31.317"
+ }
+]
