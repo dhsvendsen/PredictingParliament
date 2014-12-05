@@ -21,7 +21,6 @@ import dataretrieval.odaparsers as opa
 import numpy as np
 from sklearn.tree import DecisionTreeClassifier
 import pickle
-from docopt import docopt
 import sys
 
 
