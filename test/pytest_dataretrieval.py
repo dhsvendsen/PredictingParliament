@@ -12,8 +12,18 @@ import dataretrieval.odaparsers as opa
 # Tests for odagetter
 #GETTER = oget.OdaGetter(?!?!?!)
 
+
 def test_hmmm():
     pass
     
     
 # Tests for odagetter
+
+
+def test_all_mps():
+    all_mp = opa.all_mps()
+    assert type(all_mp) == list
+    assert 'Christine Antorini' in [dicts['navn'] for dicts in all_mp]
+    #assert all_mp[3]['navn'] == 'Christine Antorini'
+    assert len(all_mp) == 179
+

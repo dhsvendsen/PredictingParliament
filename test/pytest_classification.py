@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+"""Script containing testfunctions for the classification module"""
+
 import os
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, parentdir)
@@ -39,7 +41,7 @@ def test_remove_zero_cols():
 
 
 def test_dataset_X_y():
-    """Test if function succesfully produces array."""
+    """Test if function succesfully produces arrays."""
     X, y = cda.dataset_X_y(17)
     print X.shape
     assert X.shape[0] > 10
