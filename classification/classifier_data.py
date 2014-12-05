@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 
-"""This module contains functions, each returning a zero-array which holds a
-single 1 representing the precense of a feature in a case (data object). These
-arrays are combined into a data object row and then a full data matrix by the
-dataset_X_y(aktoerid) function of this module.
-Note that in some cases a feature may not be present for an
-observation, in which case the function will just return the zero-array. Full
-rows of zeros, i.e. features that were never present will be deleted in the
-final step of this script.
+"""Construct classifier-ready dataset for a member of parliament (MP).
+
+This submodule constructs a datamatrix and a target array for an MP using
+the function 'dataset_X_y', which calls each of the functions prefixed with
+'feat_' and concatenates their returned feature vectors into a datapoint for
+each iteration over a list of votes cast by an MP.
 """
 
 import os
@@ -31,14 +29,18 @@ def feat_party(caseid):
     ----------
     caseid : id-integer
         Int-type corresponding to the case-id with which the cases voted on in
-        the parliament, in the current term, are indexed on www.oda.ft.dk
+        the parliament, in the current term, are indexed on www.oda.ft.dk.
 
     Returns
     -------
     out : feature-array
         A numpy array of n_parties length conataining 0's and a 1 at the
         appropriate entry corresponding to how the parties are indexed on
-        www.oda.ft.dk
+        www.oda.ft.dk.
+
+        Example
+        -------
+        array([ 0.,  0.,  0.,  0.,  1.,  0.,  0.,  0.])
     """
 
     parties = ['Venstre', 'Socialdemokratiet', 'Socialistisk Folkeparti',
@@ -84,14 +86,14 @@ def feat_category(case_categoryid):
     case_categoryid : id-integer
         Int-type corresponding to the particular category of the case in
         question, pertaining to the way the categorys are indexed on
-        www.oda.ft.dk
+        www.oda.ft.dk.
 
     Returns
     -------
     out : feature-array
         A numpy array of n_categories length, conataining 0's and a 1 at the
         appropriate entry corresponding to how the parties are indexed on
-        www.oda.ft.dk
+        www.oda.ft.dk.
     """
 
     feat_array = np.zeros(17)  # There are 17 different categories
@@ -101,8 +103,7 @@ def feat_category(case_categoryid):
 
 
 def feat_L_or_B(case_nummerprefix):
-    """Return feature array representing whether proposition is bill ('L') or
-    motion ('B').
+    """Return feature array for type of proposition: bill 'L' or motion 'B'.
 
     Parameters
     ----------
@@ -113,7 +114,7 @@ def feat_L_or_B(case_nummerprefix):
     -------
     out : feature-array
         A numpy array of length 2, conataining a 0 and a 1.
-        [1, 0] for 'L' and [0, 1] for 'B'
+        [1, 0] for 'L' and [0, 1] for 'B'.
     """
 
     if case_nummerprefix == 'L':
@@ -125,18 +126,22 @@ def feat_L_or_B(case_nummerprefix):
 
 
 def remove_zero_cols(X):
-    """Takes a numpy array or matrix and removes coloumns that consist only of
-    zeros
+    """Remove columns in a datamatrix that only contains zeros.
+
+    Note that this function is not used in 'dataset_X_y' since the internal
+    structure of features is lost when zero-columns are removed. It is,
+    however, included in this submodule because it can be useful in cases
+    where the datamatrices should be treated as black box system.
 
     Parameters
     ----------
     X : array-type
-        Numpy array or matrix type of n_rows, n_cols > 1
+        Numpy array or matrix type of n_rows, n_cols > 1.
 
     Returns
     -------
     out : array-type with no zero-cols
-        The given X numpy array or matrix with zero-coloumns removed
+        The given X numpy array or matrix with zero-coloumns removed.
     """
 
     zero_cols = []
@@ -149,15 +154,17 @@ def remove_zero_cols(X):
 
 
 def dataset_X_y(aktoerid):
-    """Return a clean dataset X of features for every case the given MP has
+    """Return classifier-ready dataset for an MP.
+
+    Return a clean dataset X of features for every case the given MP has
     voted in, along with a target vector y, representing his/her vote in said
     case.
 
     Parameters
     ----------
     aktoerid : id-integer
-        Int-type corresponding to the actor-id with which the members of
-        parliament are indexed on www.oda.ft.dk
+        Int-type corresponding to the actor-id with which the MP is 
+        indexed by on www.oda.ft.dk.
 
     Returns
     -------
@@ -165,8 +172,24 @@ def dataset_X_y(aktoerid):
         A data matrix of numpy.array type, each row containing the features of
         a particular case in which the MP in question voted.
 
+        Example
+        ------- 
+        array([[ 0.        ,  1.        ,  0.        , ...,  0.59463238,
+                 0.        ,  0.        ],
+               ...,
+               [ 0.        ,  1.        ,  0.        , ...,  0.06455698,
+                 0.        ,  0.04262148]])
+
     out2 : target-array
         A numpy.array of classindices, representing the binary vote result.
+
+        Example
+        -------
+        array([2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+               1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 1, 2, 1, 1,
+               1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1,
+               1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 2,
+               2, 2, 2, 2, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1])
     """
 
     # Get list of votes that the given MP has cast

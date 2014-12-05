@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import os
-parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-os.sys.path.insert(0, parentdir)
+PARENTDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, PARENTDIR)
 
 from dataretrieval.odagetter import OdaGetter
 from gensim import corpora, models
@@ -13,7 +13,10 @@ import numpy as np
 
 
 def lda_topics(resume):
-    """Perform Latent Dirichlet Analysis on a string. The corpus of all case
+    """Return vector of topic distribution for a string.
+
+    This function attempts to load an existing Latent Dirichlet Allocation
+    (LDA) model, and trains a new one the a corpus based on all case
     resumes (in BOW representation) is transformed by 'term frequency–inverse
     document frequency' method.
 
@@ -32,11 +35,9 @@ def lda_topics(resume):
 
     # Attempt to retrieve stored LDA model
     try:
-        lda = models.LdaModel.load(
-            'storing/ldamodel/all_resume_model_modified_%s.model' % str(
+        lda = models.LdaModel.load(PARENTDIR + '/storing/ldamodel/all_resume_model_modified_%s.model' % str(
                 n_topic))
-        dictionary = corpora.Dictionary.load(
-            'storing/ldamodel/all_resume_dict_modified_%s.dict' % str(
+        dictionary = corpora.Dictionary.load(PARENTDIR + '/storing/ldamodel/all_resume_dict_modified_%s.dict' % str(
                 n_topic))
 
     except IOError:
