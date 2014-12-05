@@ -42,7 +42,7 @@ def lda_topics(resume):
     except IOError:
         # Retrieve all resumes
         getter = OdaGetter()
-        cases = getter.get_LB_sager()
+        cases = getter.get_lb_sager()
 
         # Create text corpus, using utf-8 encoding
         corpus = [case['resume'].encode('utf-8') for case in cases

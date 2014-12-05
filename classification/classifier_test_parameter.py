@@ -5,10 +5,6 @@ of classifiers. For the given MP, a host of classifiers are trained on the
 dataset and subsequently evaluated through stratisfied crossvalidation.
 """
 
-import os
-parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-os.sys.path.insert(0, parentdir)
-
 import classifier_data
 from sklearn.cross_validation import StratifiedKFold
 from sklearn.neighbors import KNeighborsClassifier
@@ -19,9 +15,6 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.lda import LDA
 from sklearn.qda import QDA
 import numpy as np
-from sys import argv
-
-_, mp_id = argv
 
 
 def classifier_score(features, targets, classifier):
@@ -71,29 +64,48 @@ def classifier_score(features, targets, classifier):
         return np.mean(accuracies)
 
 
-try:
-    X = np.load('../storing/matrices/X_{}.npy'.format(mp_id))
-    y = np.load('../storing/matrices/y_{}.npy'.format(mp_id))
-except IOError:
-    X, y = classifier_data.dataset_X_y(mp_id)
+if __name__ == '__main__':
+    import dataretrieval.odaparsers as opa
+    import os
 
-# Initialize different classifiers from sklearns library and test accuracy.
-names = ["Nearest Neighbors", "Linear SVM", "RBF SVM", "Decision Tree",
-         "Random Forest", "AdaBoost", "Naive Bayes", "LDA", "QDA"]
+    PARENTDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    os.sys.path.insert(0, PARENTDIR)
 
-classifiers = [
-    KNeighborsClassifier(3),
-    SVC(kernel="linear", C=0.025),
-    SVC(gamma=2, C=1),
-    DecisionTreeClassifier(max_depth=5),
-    RandomForestClassifier(max_depth=5, n_estimators=200),
-    AdaBoostClassifier(),
-    GaussianNB(),
-    LDA(),
-    QDA()]
+    valid_list = [mp['id'] for mp in opa.all_mps()]
 
-print 'Percentage of "yes"-votes cast in current period of government:',
-np.mean(y == 1)
-for name, clf in zip(names, classifiers):
-    score = classifier_score(X, y, clf)
-    print name, ' results are: \n', score
+    while True:
+        try:
+            MP_ID = int(raw_input('Enter valid MP ID Integer: '))
+        except:
+            continue
+        if MP_ID in valid_list:
+            break
+        else:
+            print "Invalid entry"
+
+    try:
+        X = np.load(PARENTDIR + '/storing/matrices/X_{}.npy'.format(MP_ID))
+        y = np.load(PARENTDIR + '/storing/matrices/y_{}.npy'.format(MP_ID))
+    except IOError:
+        X, y = classifier_data.dataset_X_y(MP_ID)
+
+    # Initialize different classifiers from sklearns library and test accuracy.
+    names = ["Nearest Neighbors", "Linear SVM", "RBF SVM", "Decision Tree",
+             "Random Forest", "AdaBoost", "Naive Bayes", "LDA", "QDA"]
+
+    classifiers = [
+        KNeighborsClassifier(3),
+        SVC(kernel="linear", C=0.025),
+        SVC(gamma=2, C=1),
+        DecisionTreeClassifier(max_depth=5),
+        RandomForestClassifier(max_depth=5, n_estimators=200),
+        AdaBoostClassifier(),
+        GaussianNB(),
+        LDA(),
+        QDA()]
+
+    print 'Percentage of "yes"-votes cast in current period of government:',
+    np.mean(y == 1)
+    for name, clf in zip(names, classifiers):
+        score = classifier_score(X, y, clf)
+        print name, ' results are: \n', score

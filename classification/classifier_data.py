@@ -11,16 +11,18 @@ final step of this script.
 """
 
 import os
-parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-os.sys.path.insert(0, parentdir)
+PARENTDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, PARENTDIR)
 
 from dataretrieval.odagetter import OdaGetter
-from dataretrieval.odaparsers import single_MP, MP_votes, vote_case
+from dataretrieval.odaparsers import single_mp, mp_votes, vote_case
 from resume_lda import lda_topics
 import xml.etree.ElementTree as ET
 import numpy as np
 
-getter = OdaGetter()
+
+if __name__ == '__main__':
+    GETTER = OdaGetter()
 
 
 def feat_party(caseid):
@@ -45,14 +47,14 @@ def feat_party(caseid):
                'Liberal Alliance', 'Det Konservative Folkeparti']
 
     try:
-        aktoerid = getter.get_sagaktoer(caseid, 19)  # 19 is the typeid for
+        aktoerid = GETTER.get_sagaktoer(caseid, 19)  # 19 is the typeid for
         # the "proposing politician
     except IndexError:
         print "No actor with role id 19 was found for\ caseid %d. Returning "\
             "0-array." % caseid
         return np.zeros(len(parties))
 
-    data = single_MP(aktoerid)
+    data = single_mp(aktoerid)
 
     try:
         root = ET.fromstring(data['biografi'].encode('utf-16'))
@@ -169,27 +171,27 @@ def dataset_X_y(aktoerid):
     """
 
     # Get list of votes that the given MP has cast
-    MP_votes_list = MP_votes(aktoerid)
+    mp_votes_list = mp_votes(aktoerid)
 
     # Get full list of votes in parliament. This is needed since we are only
     # interested in votes that are of typeid = 1, i.e. final votes, and this
-    # information is not available in MP_votes_list. Note that the key 'typeid'
-    # is also present in MP_votes_list, but that it here represents the MP's
+    # information is not available in mp_votes_list. Note that the key 'typeid'
+    # is also present in mp_votes_list, but that it here represents the MP's
     # decision in that vote, and carries no information about what type of
     # vote it was.
-    all_votes_list = getter.get_afstemning()
+    all_votes_list = GETTER.get_afstemning()
 
     # The database has a lot of dublicates, so to avoid these we add processed
     # cases to an array that has to be checked for every iteration.
     processed_cases = []
 
     X, y = [], []
-    for MP_vote in MP_votes_list:
+    for mp_vote in mp_votes_list:
 
         # Check if vote is final, i.e. typeid = 1
         continue_after_check = True
         for vote in all_votes_list:
-            if MP_vote['afstemningid'] == vote['id']:
+            if mp_vote['afstemningid'] == vote['id']:
                 if vote['typeid'] != 1:
                     continue_after_check = False
                     print "Vote not final"
@@ -199,17 +201,17 @@ def dataset_X_y(aktoerid):
             continue
 
         # Instantiate case profile to extract features from
-        case = vote_case(MP_vote['afstemningid'])
+        case = vote_case(mp_vote['afstemningid'])
 
         if case['id'] in processed_cases:
             print "Dublicate found! Vote %d in case %d" % (
-                MP_vote['afstemningid'], case['id'])
+                mp_vote['afstemningid'], case['id'])
             continue
         else:
             processed_cases.append(case['id'])
 
         print "\nProcessing vote %d in case %d - MP id %d\n" % (
-            MP_vote['afstemningid'], case['id'], aktoerid)
+            mp_vote['afstemningid'], case['id'], aktoerid)
 
         X_case = []
 
@@ -230,6 +232,6 @@ def dataset_X_y(aktoerid):
         caseid\t %d" % case['id']
 
         X.append(X_case)
-        y.append(MP_vote['typeid'])
+        y.append(mp_vote['typeid'])
 
     return np.array(X), np.array(y)
