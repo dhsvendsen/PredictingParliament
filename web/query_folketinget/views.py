@@ -35,9 +35,9 @@ def index(request):
 
 @csrf_protect
 def predict(request):
-    """Renders front page with vote predictions.
+    """Render front page with vote predictions.
 
-    Takes a url-request and gets predictions from 'utils', then returns an
+    Take a url-request and get predictions from 'utils', then return a
     HTTP-response with rendered vote predictions.
     """
     html_parser = HTMLParser.HTMLParser()
