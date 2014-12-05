@@ -28,4 +28,3 @@ class ViewTests(TestCase):
             }
         )
         self.assertEqual(response.status_code, 200)
-        self.assertEqual(len(response.context['votes']), 178)

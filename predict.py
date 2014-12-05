@@ -110,6 +110,10 @@ def predict():
     print "\tVotes for:\t", predictions.count(1)
     print "\tVotes against:\t", predictions.count(2)
     print "###############################"
+    print predictions
+    for i,e in enumerate(predictions):
+        if e == 2:
+            print i
 
 
 if __name__ == '__main__':
