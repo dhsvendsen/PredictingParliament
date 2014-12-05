@@ -35,10 +35,10 @@ def lda_topics(resume):
 
     # Attempt to retrieve stored LDA model
     try:
-        lda = models.LdaModel.load(PARENTDIR + '/storing/ldamodel/all_resume_model_modified_%s.model' % str(
-                n_topic))
-        dictionary = corpora.Dictionary.load(PARENTDIR + '/storing/ldamodel/all_resume_dict_modified_%s.dict' % str(
-                n_topic))
+        lda = models.LdaModel.load(PARENTDIR + '/storing/ldamodel'\
+                '/all_resume_model_modified_%s.model' % str(n_topic))
+        dictionary = corpora.Dictionary.load(PARENTDIR + '/storing/'\
+                'ldamodel/all_resume_dict_modified_%s.dict' % str(n_topic))
 
     except IOError:
         # Retrieve all resumes
