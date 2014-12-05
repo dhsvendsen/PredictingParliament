@@ -5,7 +5,6 @@ $(document).ready(function() {
 		var c_category = $("#case_category").val();
         var p_type = $("#proposal_type").val();
         var sum = $("#resume").val();
-        alert("Hallo");
 			$.ajax({
 					url : "/query_folketinget/predict", 
 					type : "POST",

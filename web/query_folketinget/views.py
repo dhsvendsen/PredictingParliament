@@ -114,4 +114,5 @@ def predict(request):
 
 @register.filter
 def get_item(dictionary, key):
+    """Facilitate dictionary lookup in a django template."""
     return dictionary.get(key)
