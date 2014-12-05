@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+		<head>
+			{% load staticfiles %}
+			<meta charset="UTF-8">
+			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>			
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+			<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+			<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.0/css/bootstrapValidator.min.css"/>
+			<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.0/js/bootstrapValidator.min.js"> </script>
+            <script src="{% static "query_folketinget/search_ajax.js" %}"></script>
+			<link rel="stylesheet" href="{% static 'query_folketinget/custom.css' %}" />
+
+</head>
+		<body>
+			<div class="container">
+				{% block content %}
+
+				{% endblock content%}
+			</div>
+	</body>
+</html>

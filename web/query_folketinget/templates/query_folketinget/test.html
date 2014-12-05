@@ -1,0 +1,24 @@
+<!-- Copyright 2011 jQuery4u.com -->
+<!DOCTYPE html>
+<html>
+<title>jQuery Function Demo - jQuery4u.com</title>
+<head>
+<!--
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>	
+ 
+		<script type="text/javascript">
+			$(document).ready(function(){
+					$.getJSON("https://www.googleapis.com/freebase/v1/text/en/bob_dylan?callback=?", function(data) {
+    // Get the element with id summary and set the inner text to the result.
+    $('#summary').text(data.result);
+		});
+	});		
+</script> -->
+<script src="{% static "/js/search_ajax.js" %}"></script>
+{{ data }}
+</head>
+<body>
+<p id="summary"></p> 
+</body>
+</html>
+<!-- Copyright 2011 jQuery4u.com -->
