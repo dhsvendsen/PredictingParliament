@@ -5,6 +5,13 @@ It calls the dataset_X_y from classification.classifier_data to generate a data
 matrix and class index for each member of parliament and subsequently trains a
 decision tree classifier - the classifier found to be most effective. Data
 matrices and classifiers are saved to .npy and .pkl files respectively.
+
+Usage: 
+    python generate_classifiers.py [--force]
+
+Options: 
+    --force  generate classifiers based on all new datamatrices by forcing
+             program to overwrite existing data.
 """
 
 import classification.classifier_data as cd
@@ -12,14 +19,15 @@ import dataretrieval.odaparsers as opa
 import numpy as np
 from sklearn.tree import DecisionTreeClassifier
 import pickle
+import docopt
 
 
-def main():
+def main(force=False):
     """Generate and store datamatrices and classifiers for all MPs."""
     _all_mps = [dicts['id'] for dicts in opa.all_mps()]
 
     for mp_id in _all_mps:
-        X, y = cd.dataset_X_y(mp_id)
+        X, y = cd.dataset_X_y(mp_id, force=force)
 
         np.save('storing/matrices/X_{0}'.format(mp_id), X)
         np.save('storing/matrices/y_{0}'.format(mp_id), y)
@@ -34,4 +42,10 @@ def main():
                 pickle.dump(dtc, out_file)
 
 if __name__ == '__main__':
-    main()
+    arguments = docopt.docopt(__doc__)
+    force = arguments['--force']
+
+    if caps:
+        main(force=True)
+    else:
+        main()
