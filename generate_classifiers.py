@@ -1,4 +1,6 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 """This script includes the main function of the program.
 
 It calls the dataset_X_y from classification.classifier_data to generate a data
@@ -7,11 +9,11 @@ decision tree classifier - the classifier found to be most effective. Data
 matrices and classifiers are saved to .npy and .pkl files respectively.
 
 Usage: 
-    python generate_classifiers.py [--force]
+    python generate_classifiers.py [-f | --force]
 
 Options: 
-    --force  generate classifiers based on all new datamatrices by forcing
-             program to overwrite existing data.
+    -f --force  generate classifiers based on all new datamatrices by forcing
+                program to overwrite existing data.
 """
 
 import classification.classifier_data as cd
@@ -19,7 +21,8 @@ import dataretrieval.odaparsers as opa
 import numpy as np
 from sklearn.tree import DecisionTreeClassifier
 import pickle
-import docopt
+from docopt import docopt
+import sys
 
 
 def main(force=False):
@@ -42,8 +45,10 @@ def main(force=False):
                 pickle.dump(dtc, out_file)
 
 if __name__ == '__main__':
-    arguments = docopt.docopt(__doc__)
+    arguments = docopt(__doc__)
     _force = arguments['--force']
+    print _force
+    sys.exit()
 
     if _force:
         main(force=True)
