@@ -13,6 +13,7 @@ import numpy as np
 from sklearn.tree import DecisionTreeClassifier
 import pickle
 
+
 def main():
     """Generate and store datamatrices and classifiers for all MPs."""
     _all_mps = [dicts['id'] for dicts in opa.all_mps()]
@@ -25,7 +26,7 @@ def main():
 
         if X.size == 0:
             print 'Actor of id {0} is not an active member of the'\
-            'parliament'.format(mp_id)
+                  'parliament'.format(mp_id)
         else:
             dtc = DecisionTreeClassifier(max_depth=5).fit(X, y)
             write_path = 'storing/classifiers/classifier_{0}.pkl'.format(mp_id)

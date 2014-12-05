@@ -17,7 +17,7 @@ from sklearn.qda import QDA
 import numpy as np
 
 
-def classifier_score(features, targets, classifier=DecisionTreeClassifier(max_depth=5)):
+def classifier_score(feats, targs, clf=DecisionTreeClassifier(max_depth=5)):
     """Performs stratisfied K-fold crossvalidation and for a classifier with a
     specified dataset. Then checks for the event that the trained classifier is
     trivial (all predictions equal to majority class).
@@ -31,7 +31,7 @@ def classifier_score(features, targets, classifier=DecisionTreeClassifier(max_de
     targets : class-array
         A numpy.array class-index. See also
         classification.classifier_data.dataset_X_y
-        
+
     classifier : classifer-like
         A classifier class that takes numpy arrays. Function developed with
         Sci-kit learn classifiers.
@@ -43,20 +43,20 @@ def classifier_score(features, targets, classifier=DecisionTreeClassifier(max_de
         of trivial classifier.
     """
     K = 10
-    cv = StratifiedKFold(targets, n_folds=K, indices=False)
+    cv = StratifiedKFold(targs, n_folds=K, indices=False)
     accuracies = []
 
     for train_index, test_index in cv:
         X_train, y_train = np.array(
-            features[train_index]), np.array(targets[train_index])
+            feats[train_index]), np.array(targs[train_index])
         X_test, y_test = np.array(
-            features[test_index]), np.array(targets[test_index])
+            feats[test_index]), np.array(targs[test_index])
 
-        classifier.fit(X_train, y_train)
-        accuracies.append(classifier.score(X_test, y_test))
+        clf.fit(X_train, y_train)
+        accuracies.append(clf.score(X_test, y_test))
 
-    classifier.fit(features, targets)
-    pred = classifier.predict(features)
+    clf.fit(feats, targs)
+    pred = clf.predict(feats)
 
     if np.mean(pred) % 1 == 0:
         print 'A majority class classifier'

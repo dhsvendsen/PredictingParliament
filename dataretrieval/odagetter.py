@@ -32,14 +32,12 @@ class OdaGetter(object):
                   'w') as out_data:
             out_data.write(json.dumps(data, indent=1))
 
-
     @classmethod
     def _read_from_database(cls, filename):
         """Return data from file in 'storing/database'."""
         with open(PARENTDIR + '/storing/database/%s.txt' % filename,
                   'r') as in_data:
             return json.load(in_data)
-
 
     def odata_with_db(self, url, filename=None):
         """Return dataset either by loading locally or retrieving and storing.
@@ -90,7 +88,6 @@ class OdaGetter(object):
 
             return self.data
 
-
     def odata(self, url):
         """Return dataset by retieving through Odata, without storing.
 
@@ -110,7 +107,6 @@ class OdaGetter(object):
         self.data = rq.get(url).json()
 
         return self.data
-
 
     def get_aktoer(self):
         r"""Return actors in parliament.
@@ -145,7 +141,6 @@ class OdaGetter(object):
         self.filename = 'aktoer'
 
         return self.odata_with_db(self.url, self.filename)
-
 
     def get_stemme(self, aktoerid):
         r"""Return all votes cast by a member of parliament (MP).
@@ -182,7 +177,6 @@ class OdaGetter(object):
 
         return self.odata_with_db(self.url, self.filename)
 
-
     def get_afstemning(self):
         r"""Return all parliamentary votes in parliament.
 
@@ -209,7 +203,6 @@ class OdaGetter(object):
         self.filename = 'afstemning'
 
         return self.odata_with_db(self.url, self.filename)
-
 
     def get_sag(self, sagid):
         r"""Return a specific case.
@@ -267,7 +260,6 @@ class OdaGetter(object):
 
         return self.odata_with_db(self.url, self.filename)
 
-
     def get_lb_sager(self):
         """Return all cases that are either bills or motions.
 
@@ -288,7 +280,6 @@ class OdaGetter(object):
         self.filename = 'LB_sager'
 
         return self.odata_with_db(self.url, self.filename)
-
 
     def get_ministeromraaede_aktoer(self):
         r"""Return all ministries in parliament.
@@ -322,12 +313,11 @@ class OdaGetter(object):
 
         return self.odata_with_db(self.url, self.filename)
 
-
     def get_sagstrin(self, sagstrinid):
         """Return case stage (da: 'sagstrin').
 
-        Uses 'odata' to retrieve a dictionary object with case stage
-        data for a parliamentary vote. Is used to get the 'sagid' (en: 'case ID').
+        Uses 'odata' to retrieve a dictionary object with case stage data
+        for a parliamentary vote. Is used to get the 'sagid' (en: 'case ID').
 
         Parameters
         ----------
@@ -356,7 +346,6 @@ class OdaGetter(object):
         self.url = 'http://oda.ft.dk/api/Sagstrin(%d)' % sagstrinid
 
         return self.odata(self.url)
-
 
     def get_sagaktoer(self, sagid, rolleid):
         """Return ID of actor that occupies a given role in a given case.
