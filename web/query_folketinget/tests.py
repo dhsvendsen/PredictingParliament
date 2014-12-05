@@ -6,13 +6,16 @@ from django.core.urlresolvers import reverse
 
 class ViewTests(TestCase):
     def setUp(self):
+        """Instantiate a Client to retrieve webpages."""
         self.client = Client()
 
     def test_index_view(self):
+        """Test that the index view."""
         response = self.client.get(reverse('query_folketinget:index'))
         self.assertEqual(response.status_code, 200)
 
     def test_predict(self):
+        """Test the predict view."""
         response = self.client.post(
             reverse('query_folketinget:predict'),
             {
