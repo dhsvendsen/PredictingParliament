@@ -153,7 +153,7 @@ def remove_zero_cols(X):
     return X
 
 
-def dataset_X_y(aktoerid):
+def dataset_X_y(aktoerid, force=False):
     """Return classifier-ready dataset for an MP.
 
     Return a clean dataset X of features for every case the given MP has
@@ -192,6 +192,15 @@ def dataset_X_y(aktoerid):
                2, 2, 2, 2, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1])
     """
 
+    if force is False:    
+        try:
+            X = np.load(PARENTDIR + '/storing/matrices/X_%d.npy' % aktoerid)
+            y = np.load(PARENTDIR + '/storing/matrices/y_%d.npy' % aktoerid)
+            return X, y 
+        except IOError:
+                pass
+
+    
     # Get list of votes that the given MP has cast
     mp_votes_list = mp_votes(aktoerid)
 
