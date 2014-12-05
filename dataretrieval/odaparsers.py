@@ -93,7 +93,7 @@ def single_mp(aktoerid):
 
 
 def mp_votes(aktoerid):
-    r"""Return clean list of votes cast by given MP.
+    """Return clean list of votes cast by given MP.
 
     This function uses 'odagetter.OdaGetter.get_stemme' with an argument
     corresponding to the ID of an MP, and returns a clean list where all

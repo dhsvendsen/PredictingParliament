@@ -3,8 +3,8 @@
 """Script containing testfunctions for the classification module"""
 
 import os
-parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-os.sys.path.insert(0, parentdir)
+PARENTDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, PARENTDIR)
 
 import numpy as np
 npt = np.testing
@@ -35,9 +35,9 @@ def test_feat_L_or_B():
 
 def test_remove_zero_cols():
     """Test if function succesfully removes zero-coloumns."""
-    A = np.array([[1, 0, 4], [2, 0, 5]])
-    B = np.array([[1, 4], [2, 5]])
-    npt.assert_array_equal(cda.remove_zero_cols(A), B)
+    a = np.array([[1, 0, 4], [2, 0, 5]])
+    b = np.array([[1, 4], [2, 5]])
+    npt.assert_array_equal(cda.remove_zero_cols(a), b)
 
 
 def test_dataset_X_y():
