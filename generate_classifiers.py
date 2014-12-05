@@ -43,9 +43,9 @@ def main(force=False):
 
 if __name__ == '__main__':
     arguments = docopt.docopt(__doc__)
-    force = arguments['--force']
+    _force = arguments['--force']
 
-    if caps:
+    if _force:
         main(force=True)
     else:
         main()
