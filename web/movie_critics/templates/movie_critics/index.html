@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+		<head>
+			<!--{% load staticfiles %}-->
+			<meta charset="UTF-8">
+			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>			
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+			<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+			<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.0/css/bootstrapValidator.min.css"/>
+			<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.0/js/bootstrapValidator.min.js"> </script>
+            <!--<script src="{% static "query_folketinget/search_ajax.js" %}"></script>-->
+			<!--<link rel="stylesheet" href="{% static 'query_folketinget/custom.css' %}" />-->
+
+</head>
+		<body>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="jumbotron">
+							<h1>Movie Critics</h1>
+							<p>
+								Are movie critics objective and professsional? We try to answer this and many other questions below.
+							</p>
+
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-3">
+						<form role="form">
+							<div class="radio">
+								<label><input type="radio" name="optradio" class="top_radio" id="net_random">Network Random</label>
+							</div>
+							<div class="radio">
+								<label><input type="radio" name="optradio" class="top_radio" id="most_polarized">Most Polarized</label>
+							</div>
+							<div class="radio disabled">
+								<label><input type="radio" name="optradio" class="top_radio" id="review_agreement_rate">Review Agreement</label>
+							</div>
+						</form>
+					</div>
+					<div class="col-lg-9">
+						<img src="{% static "movie_critics/img/most_polarized.png" %}" alt="" class="img-responsive" id="top_image">
+					</div>
+				</div>
+			</div>
+	</body>
+	<script>
+		$(document).ready(function() {
+		    $(".top_radio").change(function() {
+
+		        chkBoxId = $(this).attr("id");
+
+		        switch (chkBoxId ) {
+		        case "net_random":
+		            $("#top_image").attr("src","{% static "movie_critics/img/net_random.png" %}");
+		            break;
+		        case "most_polarized":
+		            $("#top_image").attr("src","{% static "movie_critics/img/most_polarized.png" %}");
+		            break;
+		        case "review_agreement_rate":
+		            $("#top_image").attr("src","{% static "movie_critics/img/review_agreement_rate.png" %}");
+		            break;
+		        default:
+		            $("#top_image").attr("src","{% static "movie_critics/img/review_agreement_rate.png" %}");
+		        }
+
+
+		    });
+		});
+	</script>
+</html>

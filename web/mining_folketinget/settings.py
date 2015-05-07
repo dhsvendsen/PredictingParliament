@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
 		'query_folketinget',
+        'movie_critics',
 )
 
 MIDDLEWARE_CLASSES = (

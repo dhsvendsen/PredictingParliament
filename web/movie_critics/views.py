@@ -3,4 +3,5 @@ from django.http import HttpResponse
 # Create your views here.
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the movie_critic index.")
+	context = {'intro': 'Movie Critics Page'}
+	return render(request, 'movie_critics/index.html', context)
