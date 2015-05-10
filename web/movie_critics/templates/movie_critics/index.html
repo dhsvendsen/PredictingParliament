@@ -116,14 +116,13 @@
 
 		    });
            $('.img_thumb').on('click',function(){
-           		var text = $(this).closest("div").find("h3").val();
-           		alert(text);
+           		var header = $(this).closest("div").find("h3").val();
                 var src = $(this).attr('src');
                 var img = '<img src="' + src + '" class="img-responsive"/>';
                 $('#myModal').modal();
                 $('#myModal').on('shown.bs.modal', function(){
                     $('#myModal .modal-body').html(img);
-                    $('#myModal .modal-header h4').html();
+                    $('#myModal .modal-header h4').html(header);
                 });
                 $('#myModal').on('hidden.bs.modal', function(){
                     $('#myModal .modal-body').html('');
