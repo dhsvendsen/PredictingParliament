@@ -88,6 +88,9 @@
 				      <div class="modal-body">
 				 			
 				      </div>
+				      <div class="modal-footer">
+				      	<p></p>
+				      </div>
 				    </div>
 				  </div>
 				</div>
@@ -116,16 +119,20 @@
 
 		    });
            $('.img_thumb').on('click',function(){
-           		var header = $(this).closest("div").find("h3").val();
+           		var header = $(this).closest("div").find("h3").text();
+           		var footer = $(this).closest("div").find("p").text();
                 var src = $(this).attr('src');
                 var img = '<img src="' + src + '" class="img-responsive"/>';
                 $('#myModal').modal();
                 $('#myModal').on('shown.bs.modal', function(){
                     $('#myModal .modal-body').html(img);
                     $('#myModal .modal-header h4').html(header);
+                    $('#myModal .modal-footer p').html(footer);
                 });
                 $('#myModal').on('hidden.bs.modal', function(){
                     $('#myModal .modal-body').html('');
+                    $('#myModal .modal-header h4').html('');
+                    $('#myModal .modal-footer p').html('');
                 });
            }); 
 		});
