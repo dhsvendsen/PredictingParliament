@@ -76,7 +76,6 @@ psutil==2.1.1
 py==1.4.26
 pycosat==0.6.1
 pycparser==2.10
-pycrypto==2.6.1
 pyface==4.4.0
 pyflakes==0.8.1
 pyflakes8==0.1.9
@@ -88,7 +87,6 @@ pytz==2014.7
 pywin32==218.4
 pyzmq==14.3.0
 requests==2.4.3
-rope==0.9.4
 runipy==0.1.0
 scikit-image==0.10.0
 scikit-learn==0.15.2
