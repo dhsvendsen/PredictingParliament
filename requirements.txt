@@ -10,7 +10,7 @@ Markdown==2.5.1
 MarkupSafe==0.18
 MySQL-python==1.2.3
 PIL==1.1.7
-PyYAML==3.11
+PyYAML==4.2b1
 Pygments==1.6
 SQLAlchemy==0.9.4
 SQLObject==1.6.0
