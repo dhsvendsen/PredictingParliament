@@ -5,7 +5,7 @@ Cython==0.20.1
 DataShape==0.2
 Flask==0.12.3
 FormEncode==1.2.6
-Jinja2==2.7.2
+Jinja2>=2.10.1
 Markdown==2.5.1
 MarkupSafe==0.18
 MySQL-python==1.2.3
