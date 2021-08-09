@@ -84,7 +84,7 @@ pyreadline==2.0
 pytest==2.6.4
 python-dateutil==1.5
 pytz==2014.7
-pywin32==218.4
+pywin32==301
 pyzmq==14.3.0
 requests==2.20.0
 runipy==0.1.0
