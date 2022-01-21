@@ -48,7 +48,7 @@ graphviz==0.4.1
 greenlet==0.4.2
 grin==1.2.1
 h5py==2.3.0
-ipython==2.2.0
+ipython==7.16.3
 itsdangerous==0.24
 jdcal==1.0
 kiwisolver==0.1.2
