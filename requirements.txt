@@ -99,7 +99,7 @@ tables==3.1.1
 tornado==3.2.1
 traits==4.4.0
 traitsui==4.4.0
-ujson==1.33
+ujson==5.4.0
 wsgiref==0.1.2
 xdot==0.6
 xlrd==0.9.3
